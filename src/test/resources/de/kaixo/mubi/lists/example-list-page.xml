@@ -1,0 +1,2201 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+
+<head><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+  <title>Contemplative Cinema Starter Pack - Movie List on mubi.com</title>
+  <meta property="og:title" content="Contemplative Cinema Starter Pack - Movie List"/>
+<meta property="og:description" content="Ooooh, a list. Totally subjective choices, of course, and some of them I haven’t seen, I just know they’re contemplative by reputation. The List is still a work in progress, I’ll add more when they come to mind, and of course, suggestions would be welcome.
+I’m just going to steal the description from the Unspoken Cinema blog
+“the kind that rejects conventional narration to develop almost essentially through minimalistic visual language and atmosphere alone, without the help of music, dialogue, melodrama, action-montage, and the star system.”
+Harry Tuttle also added: “…it could be confusing to mix in certain films that feature a general “minimalistic” narrative, but still use dialogue as an important narrative drive. My Dinner With André doesn’t exist without its dialogue. Most of the film content is articulated through this conversation. But I agree its mise en scène is minimalist in its own way.
+Same problem with the major voiceover/dialogue in The Inner Scar, The Sacrifice, L’Eclisse" />
+<meta property="og:type" content="movietheater:list" />
+<meta property="og:site_name" content='MUBI'/>
+<meta property="fb:app_id" content="5409810948" />
+<meta property="og:url" content="https://mubi.com/lists/contemplative-cinema-starter-pack"/>
+
+<meta property="og:image" content="http://s3.amazonaws.com/auteurs_production/images/film/at-sea/w128/at-sea.jpg"/>
+<meta content="207" property="movietheater:films" /><meta content="https://mubi.com/users/26200" property="movietheater:created_by" /><meta name="title" content="Contemplative Cinema Starter Pack - Movie List" />
+<meta name="description" content="Contemplative Cinema Starter Pack, one of thousands of movie lists from &quot;Best of&quot; to &quot;Top 10s&quot; written by people who love film on mubi.com." />
+<meta name="keywords" content="Contemplative Cinema Starter Pack, lists, movie list, list of movies, movie lists,  movies list, cinema, mubi, top 10, best of"/>
+
+<link rel="image_src" href="http://s3.amazonaws.com/auteurs_production/images/film/at-sea/w128/at-sea.jpg" />
+
+  
+
+  <meta http-equiv="content-type" content="application/xhtml+xml; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="google-site-verification" content="3p-1owiUMKNVL6boYaAn0Pn7GBV7b3ufW2CnUcww-Tc" />
+  <meta name="msvalidate.01" content="A814355EBC4D849EFD056C4EBCA2BB1E" />
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="xEb1phdvbwo0caP+P+7PBaap7xdAFH4nm6lUtAyZ548=" name="csrf-token" />
+
+  
+
+  <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+  <link href="/favicon.ico" rel="icon" type="image/x-icon" />
+
+  <link href="/assets/application-c91871a304a125049e1d7076174bba95.css" media="screen" rel="stylesheet" type="text/css" />
+
+
+  <script type="text/javascript" charset="utf-8">
+  // Define MUBI namespace (Why is it TA then!?!?!?!?!?!?!???)
+    TA = {};
+    TA.domain = 'mubi.com';
+    TA.fb_app_id = 5409810948;
+    TA.disable_fb_auto_login = false;
+    TA.country = 'DE';
+    TA.current_locale = 'de-DE';
+
+    TA.userid = 156461;
+    TA.userFirstName = "Markus";
+    TA.fb_userid = null;
+    TA.roles = [];
+      TA.auth_token = "xEb1phdvbwo0caP+P+7PBaap7xdAFH4nm6lUtAyZ548=";
+  </script>
+
+  <script src="/assets/main-dbbac0f94d331c65662e2880adacde63.js" type="text/javascript"></script>
+
+  <!--[if lte IE 7]>
+  <script src="/assets/main-ie7/jquery.dropdown-6db598fb280b40bbeeea123a382066dc.js" type="text/javascript"></script>
+  <![endif]-->
+
+  
+
+  <script type="text/javascript">
+    $j(document).ready( function() {
+        $j('a.modal').modalDialog({
+    id: 'embedder',
+    reload: false,
+    dialog: {
+      title: 'Embed this list',
+      open: function(event, ui) {
+        $j(this).dialog('widget').css({ position: 'fixed' }).position({ my: 'center', at: 'center', of: window });
+      }
+    }
+  });
+
+  $j('a.closebutton').live('click', function() {
+    $j('#embedder').dialog('close');
+    return false;
+  });
+
+  $j('div.swatch').live('click', function() {
+    $j('#hex_color').val( $j(this).attr('rel') ).change();
+  });
+
+  $j('#advanced_title').live('click', function() {
+    $j(this).toggleClass('blue');
+    if ( $j('#advanced').is(':visible') )
+      $j('#advanced').slideUp();
+    else
+      $j('#advanced').slideDown();
+  });
+
+    });
+  </script>
+
+    <link rel="alternate" type="application/json+oembed"
+    href="https://mubi.com/services/oembed?url=https://mubi.com/lists/contemplative-cinema-starter-pack.json"
+    title="Contemplative Cinema Starter Pack" />
+
+
+    <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-286175-3']);
+    _gaq.push(['_trackPageview']);
+
+    
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+</head>
+
+
+<body class="">
+
+
+
+
+
+  <div id="wrap_positioner"><div id="wrap">
+    <div class="use12">
+      <a id="logo" class="" href="/">MUBI</a>
+
+      <div id="global_flash_container">
+        <div id="global_flash" style="display: none;"></div>
+      </div>
+
+      
+
+    </div>
+
+    <div id="main_navbar" class="use12">
+  <div id="main_nav_menu_column">
+    <ul class="dropdown">
+      <li><a class="" href="/watch">Films</a></li>
+      <li><a href="/notebook">Notebook</a></li>
+      <li><a href="/lists">Lists</a></li>
+      <li><a href="/festivals">Festivals</a></li>
+      <li><a href="/users">People</a></li>
+      <li><a href="/topics">Forum</a></li>
+    </ul>
+  </div>
+
+  <div id="main_nav_search_column">
+    <div id="main_search">
+      <form action="/search/results" id="cse-search-box">
+        <input type="hidden" name="cx" value="016360985607050269103:cmmod4epzpo" />
+        <input type="hidden" name="cof" value="FORID:10" />
+        <input type="hidden" name="ie" value="UTF-8" />
+
+        <span id="main_search_wrap">
+          <input type="text" autocomplete="off" id="main_search_box" name="q" />
+          <a class="button" href="#" onclick="$('cse-search-box').submit(); return false">search</a>
+        </span>
+      </form>
+    </div>
+  </div>
+</div>
+<!-- before removing display:none be sure to check IE7 as it was showing the border on this box by mistake -->
+<script type="text/javascript" charset="utf-8">
+  if ( $j.fn.autosuggest ) {
+    $j("#main_search_box").autosuggest({
+      source: "/services/films/search.json",
+      minLength: 2,
+      delay: 250,
+      select: function(event, ui) {
+        document.location = ui.item.url;
+      }
+    });
+  }
+</script>
+
+
+    
+
+
+<div id="individual_list_view" class="use12">
+  <div class="content">
+
+    <div>
+      <div class="right"><fb:like class="social-button" href="https://mubi.com/lists/contemplative-cinema-starter-pack" layout="button_count" send="true"></fb:like></div>
+      <div class="right"><a href="http://twitter.com/share" class="twitter-share-button social-button " data-count="horizontal" data-related="mubi,notebookMUBI,theauteursG" data-text="Contemplative Cinema Starter Pack" data-url="https://mubi.com/lists/contemplative-cinema-starter-pack" data-via="mubi">Tweet</a>
+      <script>(function() {
+        var src = document.createElement('script');
+        src.async = true;
+        src.src = document.location.protocol + '//platform.twitter.com/widgets.js';
+        document.getElementsByTagName('head')[0].appendChild(src);
+        }());
+      </script>
+    </div>
+
+      <h1>Contemplative Cinema Starter Pack</h1>
+      <h3>By: <a href="/users/26200" class="username unique">© &lt;&#x27;,))( Astro-T&#8203;ofuprax&#8203;ographe&#8203;r</a></h3>
+
+      <p>Ooooh, a list. Totally subjective choices, of course, and some of them I haven’t seen, I just know they’re contemplative by reputation. The List is still a work in progress, I’ll add more when they come to mind, and of course, suggestions would be welcome.</p>
+<p>I’m just going to steal the description from the <a href="http://unspokencinema.blogspot.com/" rel="nofollow">Unspoken Cinema blog</a><br>
+“the kind that rejects conventional narration to develop almost essentially through minimalistic visual language and atmosphere alone, without the help of music, dialogue, melodrama, action-montage, and the star system.”</p>
+<p>Harry Tuttle also added: “…it could be confusing to mix in certain films that feature a general “minimalistic” narrative, but still use dialogue as an important narrative drive. My Dinner With André doesn’t exist without its dialogue. Most of the film content is articulated through this conversation. But I agree its mise en scène is minimalist in its own way.<br>
+Same problem with the major voiceover/dialogue in The Inner Scar, The Sacrifice, L’Eclisse, Broken Flowers, Two-Lane Blacktop, 24 City, Chronicle of a Chinese Woman… and a couple others are arguable.<br>
+If the film provides narrative signposts, clues, walkthrough with words, it doesn’t let the spectator figure all out by contemplating at the images alone. Minimal dialogue doesn’t distract as far as it doesn’t spell out character’s motives, personality, intentions to cue a following scene. Especially mundane conversations that have nothing to do with the film’s principal narrative; it just gives a natural slice of life for these characters without constructing an artificial narrative drive.”*</p>
+<p><a href="http://tinypic.com?ref=2ezl3xy" rel="nofollow"><img src="http://i39.tinypic.com/2ezl3xy.jpg" alt="Image and video hosting by TinyPic" style="max-width: 810px"></a></p>
+<p>*I included the films Harry mentioned in the list anyway since they can be good starting points before delving into the stricter models of contemplative cinema.</p>
+<p>I’ve basically picked films that provide a nice antidote to today’s overstimulating, overloading films. Most of the films of this list just put me in a relaxed state, sometimes, all I just want to see are un-narrated moving images.</p>
+<p>For further reading, check <a href="http://unspokencinema.blogspot.com/2010/03/slower-or-contemplative.html" rel="nofollow">this</a> out.</p>
+<p>Rounding up the usual suspects:</p>
+<p><img src="http://www.mutanteggplant.com/vitro-nasu/im3/peter.jpg" alt="" style="max-width: 810px"><br><a href="http://mubi.com/cast_members/82566" rel="nofollow">Peter Hutton</a></p>
+<p><img src="http://www.decine21.com/estructurasbd/Perfiles/P56579/belatarr.jpg" alt="" style="max-width: 810px"><br><a href="http://www.theauteurs.com/cast_members/4125" rel="nofollow">Bela Tarr</a></p>
+<p><img src="http://www.septimovicio.com/datos2/septiembre08/200691022230-Dir_Apichatpong_weerasethakul.jpg" alt="" style="max-width: 810px"><br><a href="http://www.theauteurs.com/cast_members/4553" rel="nofollow">Apichatpong Weerasethakul</a></p>
+<p><img src="http://2.bp.blogspot.com/_wkMSc5DjQ18/Sacc6Hc4XDI/AAAAAAAAINQ/t6bknoTxGO0/s320/je+tu+il+elle_03.jpg" alt="" style="max-width: 810px"><br><a href="http://www.theauteurs.com/cast_members/2681" rel="nofollow">Chantal Akerman</a></p>
+<p><img src="http://www.filmfestivalrotterdam.com/resources/professionals/repository/images/blogs/blog%20Gertjan%20Zuilhof/blog%2024/Lav%20Diaz_235.JPG" alt="" style="max-width: 810px"><br><a href="http://www.theauteurs.com/cast_members/65721" rel="nofollow">Lav Diaz</a></p>
+<p><img src="http://www.filmfestivalrotterdam.com/resources/festival/repository/images/people/Tsai%20Ming-liang/Tsai_Ming-liang.jpg_cmyk_235.jpg" alt="" style="max-width: 810px"><br><a href="http://www.theauteurs.com/cast_members/1070" rel="nofollow">Tsai Ming-liang</a></p>
+<p><img src="http://www.lanacion.com.ar/archivo/anexos/fotos/10/832210.jpg" alt="" style="max-width: 810px"><br><a href="http://www.theauteurs.com/cast_members/3470" rel="nofollow">Alexandr Sokurov</a></p>
+<p><img src="http://www.filmkrant.nl/av/org/filmkran/archief/fk226/bartas.jpg" alt="" style="max-width: 810px"><br><a href="http://www.theauteurs.com/cast_members/66752" rel="nofollow">Sharunas Bartas</a></p>
+<p><img src="http://www.cccb.org/rcs_gene/Photo_WB_New_Bertrand_Meunier_redu.jpg" alt="" style="max-width: 810px"><br><a href="http://www.theauteurs.com/cast_members/63614" rel="nofollow">Wang Bing</a></p>
+<p><img src="http://www.kane3.es/uploads/lisandro_alonso_palmares.jpg" alt="" style="max-width: 810px"><br><a href="http://www.theauteurs.com/cast_members/4812" rel="nofollow">Lisandro Alonso</a></p>
+<p><img src="http://1.bp.blogspot.com/_dRxpkiNQHIY/SsDCsNOCp4I/AAAAAAAAEdM/72-tMLXQBAk/s400/costa_420.jpg" alt="" style="max-width: 810px"><br><a href="http://www.theauteurs.com/cast_members/4592" rel="nofollow">Pedro Costa</a></p>
+<p><img src="http://static.guim.co.uk/sys-images/Film/Pix/pictures/2009/7/2/1246531838470/Claire-Denis-001.jpg" alt="" style="max-width: 810px"><br><a href="http://www.theauteurs.com/cast_members/463" rel="nofollow">Claire Denis</a></p>
+<p><img src="http://jonjost.files.wordpress.com/2011/03/benning-recent.jpg" alt="" style="max-width: 810px"><br><a href="http://www.theauteurs.com/cast_members/830" rel="nofollow">James Benning</a></p>
+<p>Well, what would this list be without clips?</p>
+<p><object width="640" height="390"><param name="movie" value="//www.youtube.com/v/XK-ZqWZukz4?fs=1&amp;hl=en_US&amp;rel=0">
+<param name="allowFullScreen" value="true">
+<param name="allowscriptaccess" value="always">
+<embed src="//www.youtube.com/v/XK-ZqWZukz4?fs=1&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="390"></embed></object></p>
+<p><object width="400" height="295"><param name="allowfullscreen" value="true">
+<param name="allowscriptaccess" value="always">
+<param name="movie" value="//vimeo.com/moogaloop.swf?clip_id=1297050&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=c9ff23&amp;fullscreen=1&amp;autoplay=0&amp;loop=0">
+<embed src="//vimeo.com/moogaloop.swf?clip_id=1297050&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=c9ff23&amp;fullscreen=1&amp;autoplay=0&amp;loop=0" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="295"></embed></object></p><p><a href="http://vimeo.com/1297050" rel="nofollow">lost in a moment</a> from <a href="http://vimeo.com/saltysea" rel="nofollow">dennis wheatley</a> on <a href="http://vimeo.com" rel="nofollow">Vimeo</a>.</p>
+<p><object width="640" height="480"><param name="allowfullscreen" value="true">
+<param name="allowscriptaccess" value="always">
+<param name="movie" value="//vimeo.com/moogaloop.swf?clip_id=6476148&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=c9ff23&amp;fullscreen=1">
+<embed src="//vimeo.com/moogaloop.swf?clip_id=6476148&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=c9ff23&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="640" height="480"></embed></object></p><p><a href="http://vimeo.com/6476148" rel="nofollow">Let Each One Go Where He May (EXCERPT)</a> from <a href="http://vimeo.com/dimeshow" rel="nofollow">Ben Russell</a> on <a href="http://vimeo.com" rel="nofollow">Vimeo</a>.</p>
+<p><object width="425" height="344"><param name="movie" value="//www.youtube.com/v/v146A5jO_Yg&amp;hl=en_US&amp;fs=1&amp;rel=0&amp;color1=0x234900&amp;color2=0x4e9e00">
+<param name="allowFullScreen" value="true">
+<param name="allowscriptaccess" value="always">
+<embed src="//www.youtube.com/v/v146A5jO_Yg&amp;hl=en_US&amp;fs=1&amp;rel=0&amp;color1=0x234900&amp;color2=0x4e9e00" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object></p>
+<p><object width="425" height="344"><param name="movie" value="//www.youtube.com/v/IZ872YZCPG8&amp;hl=en_US&amp;fs=1&amp;rel=0&amp;color1=0x234900&amp;color2=0x4e9e00">
+<param name="allowFullScreen" value="true">
+<param name="allowscriptaccess" value="always">
+<embed src="//www.youtube.com/v/IZ872YZCPG8&amp;hl=en_US&amp;fs=1&amp;rel=0&amp;color1=0x234900&amp;color2=0x4e9e00" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object></p>
+<p><object width="425" height="344"><param name="movie" value="//www.youtube.com/v/SDJ3JiSwGYg&amp;hl=en_US&amp;fs=1&amp;rel=0&amp;color1=0x234900&amp;color2=0x4e9e00">
+<param name="allowFullScreen" value="true">
+<param name="allowscriptaccess" value="always">
+<embed src="//www.youtube.com/v/SDJ3JiSwGYg&amp;hl=en_US&amp;fs=1&amp;rel=0&amp;color1=0x234900&amp;color2=0x4e9e00" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object></p>
+<p><object width="425" height="344"><param name="movie" value="//www.youtube.com/v/lrlptzWwHk8&amp;hl=en_US&amp;fs=1&amp;rel=0&amp;color1=0x234900&amp;color2=0x4e9e00">
+<param name="allowFullScreen" value="true">
+<param name="allowscriptaccess" value="always">
+<embed src="//www.youtube.com/v/lrlptzWwHk8&amp;hl=en_US&amp;fs=1&amp;rel=0&amp;color1=0x234900&amp;color2=0x4e9e00" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object></p>
+<p><object width="560" height="340"><param name="movie" value="//www.youtube.com/v/PpdVbZv4znc&amp;hl=en_US&amp;fs=1&amp;rel=0&amp;color1=0x234900&amp;color2=0x4e9e00">
+<param name="allowFullScreen" value="true">
+<param name="allowscriptaccess" value="always">
+<embed src="//www.youtube.com/v/PpdVbZv4znc&amp;hl=en_US&amp;fs=1&amp;rel=0&amp;color1=0x234900&amp;color2=0x4e9e00" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object></p>
+<p><object width="425" height="344"><param name="movie" value="//www.youtube.com/v/XVbndxHyiXg&amp;hl=en_US&amp;fs=1&amp;rel=0&amp;color1=0x234900&amp;color2=0x4e9e00">
+<param name="allowFullScreen" value="true">
+<param name="allowscriptaccess" value="always">
+<embed src="//www.youtube.com/v/XVbndxHyiXg&amp;hl=en_US&amp;fs=1&amp;rel=0&amp;color1=0x234900&amp;color2=0x4e9e00" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object></p>
+<p><object width="420" height="315"><param name="movie" value="//www.youtube.com/v/PR_ozZDSrzg?version=3&amp;hl=en_US">
+<param name="allowFullScreen" value="true">
+<param name="allowscriptaccess" value="always">
+<embed src="//www.youtube.com/v/PR_ozZDSrzg?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+<p>A big thanks to <a href="http://www.theauteurs.com/users/1050" rel="nofollow">RET</a> for adding more contemplative films to the Auteurs database.</p>
+<p>&lt;’,))(</p>
+
+      <ul class="listomania">
+          <li id="film_32860" class="clearfix">
+            <div class="position">01</div>
+            <div class="film_title">
+              <a href="/films/32860">At Sea</a>            </div>
+
+              <div class="director">Peter Hutton</div>
+
+          </li>
+          <li id="film_100" class="clearfix">
+            <div class="position">02</div>
+            <div class="film_title">
+              <a href="/films/100">RR</a>            </div>
+
+              <div class="director">James Benning</div>
+
+          </li>
+          <li id="film_1393" class="clearfix">
+            <div class="position">03</div>
+            <div class="film_title">
+              <a href="/films/1393">Satanstango</a>            </div>
+
+              <div class="director">Béla Tarr</div>
+
+          </li>
+          <li id="film_379" class="clearfix">
+            <div class="position">04</div>
+            <div class="film_title">
+              <a href="/films/379">Die werckmeisterschen Harmonien</a>            </div>
+
+              <div class="director">Béla Tarr</div>
+
+          </li>
+          <li id="film_512" class="clearfix">
+            <div class="position">05</div>
+            <div class="film_title">
+              <a href="/films/512">Verdammnis</a>            </div>
+
+              <div class="director">Béla Tarr</div>
+
+          </li>
+          <li id="film_252" class="clearfix">
+            <div class="position">06</div>
+            <div class="film_title">
+              <a href="/films/252">Stranger Than Paradise</a>            </div>
+
+              <div class="director">Jim Jarmusch</div>
+
+          </li>
+          <li id="film_435" class="clearfix">
+            <div class="position">07</div>
+            <div class="film_title">
+              <a href="/films/435">Syndromes and a Century</a>            </div>
+
+              <div class="director">Apichatpong Weerasethakul</div>
+
+          </li>
+          <li id="film_20204" class="clearfix">
+            <div class="position">08</div>
+            <div class="film_title">
+              <a href="/films/20204">Les rendez-vous d’Anna</a>            </div>
+
+              <div class="director">Chantal Akerman</div>
+
+          </li>
+          <li id="film_3941" class="clearfix">
+            <div class="position">09</div>
+            <div class="film_title">
+              <a href="/films/3941">Von Osten</a>            </div>
+
+              <div class="director">Chantal Akerman</div>
+
+          </li>
+          <li id="film_866" class="clearfix">
+            <div class="position">10</div>
+            <div class="film_title">
+              <a href="/films/866">Kohi Jikou</a>            </div>
+
+              <div class="director">Hou Hsiao-hsien</div>
+
+          </li>
+          <li id="film_847" class="clearfix">
+            <div class="position">11</div>
+            <div class="film_title">
+              <a href="/films/847">Asphaltrennen</a>            </div>
+
+              <div class="director">Monte Hellman</div>
+
+          </li>
+          <li id="film_2712" class="clearfix">
+            <div class="position">12</div>
+            <div class="film_title">
+              <a href="/films/2712">Los muertos</a>            </div>
+
+              <div class="director">Lisandro Alonso</div>
+
+          </li>
+          <li id="film_302" class="clearfix">
+            <div class="position">13</div>
+            <div class="film_title">
+              <a href="/films/302">Jeanne Dielman, 23, Quai du Commerce, 1080 Bruxelles</a>            </div>
+
+              <div class="director">Chantal Akerman</div>
+
+          </li>
+          <li id="film_2333" class="clearfix">
+            <div class="position">14</div>
+            <div class="film_title">
+              <a href="/films/2333">Vive l&#x27;Amour - Es lebe die Liebe</a>            </div>
+
+              <div class="director">Tsai Ming-liang</div>
+
+          </li>
+          <li id="film_1559" class="clearfix">
+            <div class="position">15</div>
+            <div class="film_title">
+              <a href="/films/1559">Blissfully Yours</a>            </div>
+
+              <div class="director">Apichatpong Weerasethakul</div>
+
+          </li>
+          <li id="film_739" class="clearfix">
+            <div class="position">16</div>
+            <div class="film_title">
+              <a href="/films/739">The Fiances</a>            </div>
+
+              <div class="director">Ermanno Olmi</div>
+
+          </li>
+          <li id="film_1804" class="clearfix">
+            <div class="position">17</div>
+            <div class="film_title">
+              <a href="/films/1804">Bubble</a>            </div>
+
+              <div class="director">Steven Soderbergh</div>
+
+          </li>
+          <li id="film_3618" class="clearfix">
+            <div class="position">18</div>
+            <div class="film_title">
+              <a href="/films/3618">Unser täglich Brot</a>            </div>
+
+              <div class="director">Nikolaus Geyrhalter</div>
+
+          </li>
+          <li id="film_197" class="clearfix">
+            <div class="position">19</div>
+            <div class="film_title">
+              <a href="/films/197">Elephant</a>            </div>
+
+              <div class="director">Gus Van Sant</div>
+
+          </li>
+          <li id="film_272" class="clearfix">
+            <div class="position">20</div>
+            <div class="film_title">
+              <a href="/films/272">Whisky</a>            </div>
+
+              <div class="director">Juan Pablo Rebella</div>
+
+          </li>
+          <li id="film_3218" class="clearfix">
+            <div class="position">21</div>
+            <div class="film_title">
+              <a href="/films/3218">Goodbye, Dragon Inn</a>            </div>
+
+              <div class="director">Tsai Ming-liang</div>
+
+          </li>
+          <li id="film_1491" class="clearfix">
+            <div class="position">22</div>
+            <div class="film_title">
+              <a href="/films/1491">Honor de cavalleria</a>            </div>
+
+              <div class="director">Albert Serra</div>
+
+          </li>
+          <li id="film_465" class="clearfix">
+            <div class="position">23</div>
+            <div class="film_title">
+              <a href="/films/465">Birdsong</a>            </div>
+
+              <div class="director">Albert Serra</div>
+
+          </li>
+          <li id="film_1900" class="clearfix">
+            <div class="position">24</div>
+            <div class="film_title">
+              <a href="/films/1900">Friday Night</a>            </div>
+
+              <div class="director">Claire Denis</div>
+
+          </li>
+          <li id="film_497" class="clearfix">
+            <div class="position">25</div>
+            <div class="film_title">
+              <a href="/films/497">Der Feind in meinem Herzen</a>            </div>
+
+              <div class="director">Claire Denis</div>
+
+          </li>
+          <li id="film_20941" class="clearfix">
+            <div class="position">26</div>
+            <div class="film_title">
+              <a href="/films/20941">The Corridor</a>            </div>
+
+              <div class="director">Sharunas Bartas</div>
+
+          </li>
+          <li id="film_44" class="clearfix">
+            <div class="position">27</div>
+            <div class="film_title">
+              <a href="/films/44">Maborosi - Licht der Illusion</a>            </div>
+
+              <div class="director">Hirokazu Kore-eda</div>
+
+          </li>
+          <li id="film_1132" class="clearfix">
+            <div class="position">28</div>
+            <div class="film_title">
+              <a href="/films/1132">The Mourning Forest</a>            </div>
+
+              <div class="director">Naomi Kawase</div>
+
+          </li>
+          <li id="film_1909" class="clearfix">
+            <div class="position">29</div>
+            <div class="film_title">
+              <a href="/films/1909">Good Men, Good Women</a>            </div>
+
+              <div class="director">Hou Hsiao-hsien</div>
+
+          </li>
+          <li id="film_1915" class="clearfix">
+            <div class="position">30</div>
+            <div class="film_title">
+              <a href="/films/1915">Goodbye, South, Goodbye</a>            </div>
+
+              <div class="director">Hou Hsiao-hsien</div>
+
+          </li>
+          <li id="film_20264" class="clearfix">
+            <div class="position">31</div>
+            <div class="film_title">
+              <a href="/films/20264">Chronicle of a Chinese Woman</a>            </div>
+
+              <div class="director">Wang Bing</div>
+
+          </li>
+          <li id="film_2843" class="clearfix">
+            <div class="position">32</div>
+            <div class="film_title">
+              <a href="/films/2843">Millennium Mambo</a>            </div>
+
+              <div class="director">Hou Hsiao-hsien</div>
+
+          </li>
+          <li id="film_2310" class="clearfix">
+            <div class="position">33</div>
+            <div class="film_title">
+              <a href="/films/2310">Les hautes solitudes</a>            </div>
+
+              <div class="director">Philippe Garrel</div>
+
+          </li>
+          <li id="film_996" class="clearfix">
+            <div class="position">34</div>
+            <div class="film_title">
+              <a href="/films/996">Im Lauf der Zeit</a>            </div>
+
+              <div class="director">Wim Wenders</div>
+
+          </li>
+          <li id="film_561" class="clearfix">
+            <div class="position">35</div>
+            <div class="film_title">
+              <a href="/films/561">Die Erhöhung</a>            </div>
+
+              <div class="director">Larisa Shepitko</div>
+
+          </li>
+          <li id="film_1082" class="clearfix">
+            <div class="position">36</div>
+            <div class="film_title">
+              <a href="/films/1082">In the City of Sylvia</a>            </div>
+
+              <div class="director">José Luis Guerín</div>
+
+          </li>
+          <li id="film_439" class="clearfix">
+            <div class="position">37</div>
+            <div class="film_title">
+              <a href="/films/439">Jugend voran!</a>            </div>
+
+              <div class="director">Pedro Costa</div>
+
+          </li>
+          <li id="film_467" class="clearfix">
+            <div class="position">38</div>
+            <div class="film_title">
+              <a href="/films/467">Liverpool</a>            </div>
+
+              <div class="director">Lisandro Alonso</div>
+
+          </li>
+          <li id="film_2427" class="clearfix">
+            <div class="position">39</div>
+            <div class="film_title">
+              <a href="/films/2427">Ne change rien</a>            </div>
+
+              <div class="director">Pedro Costa</div>
+
+          </li>
+          <li id="film_20820" class="clearfix">
+            <div class="position">40</div>
+            <div class="film_title">
+              <a href="/films/20820">In Vanda&#x27;s Room</a>            </div>
+
+              <div class="director">Pedro Costa</div>
+
+          </li>
+          <li id="film_20963" class="clearfix">
+            <div class="position">41</div>
+            <div class="film_title">
+              <a href="/films/20963">The Man Who Sleeps</a>            </div>
+
+              <div class="director">Bernard Queysanne</div>
+
+          </li>
+          <li id="film_20604" class="clearfix">
+            <div class="position">42</div>
+            <div class="film_title">
+              <a href="/films/20604">Phantoms of Nabua</a>            </div>
+
+              <div class="director">Apichatpong Weerasethakul</div>
+
+          </li>
+          <li id="film_20523" class="clearfix">
+            <div class="position">43</div>
+            <div class="film_title">
+              <a href="/films/20523">25 Watts</a>            </div>
+
+              <div class="director">Juan Pablo Rebella</div>
+
+          </li>
+          <li id="film_3" class="clearfix">
+            <div class="position">44</div>
+            <div class="film_title">
+              <a href="/films/3">Es ist Winter</a>            </div>
+
+              <div class="director">Rafi Pitts</div>
+
+          </li>
+          <li id="film_1093" class="clearfix">
+            <div class="position">45</div>
+            <div class="film_title">
+              <a href="/films/1093">Mein Essen mit André</a>            </div>
+
+              <div class="director">Louis Malle</div>
+
+          </li>
+          <li id="film_2973" class="clearfix">
+            <div class="position">46</div>
+            <div class="film_title">
+              <a href="/films/2973">The Inner Scar</a>            </div>
+
+              <div class="director">Philippe Garrel</div>
+
+          </li>
+          <li id="film_1960" class="clearfix">
+            <div class="position">47</div>
+            <div class="film_title">
+              <a href="/films/1960">Last Days</a>            </div>
+
+              <div class="director">Gus Van Sant</div>
+
+          </li>
+          <li id="film_97" class="clearfix">
+            <div class="position">48</div>
+            <div class="film_title">
+              <a href="/films/97">Paranoid Park</a>            </div>
+
+              <div class="director">Gus Van Sant</div>
+
+          </li>
+          <li id="film_2085" class="clearfix">
+            <div class="position">49</div>
+            <div class="film_title">
+              <a href="/films/2085">Wavelength</a>            </div>
+
+              <div class="director">Michael Snow</div>
+
+          </li>
+          <li id="film_21489" class="clearfix">
+            <div class="position">50</div>
+            <div class="film_title">
+              <a href="/films/21489">Arrival of a Train</a>            </div>
+
+              <div class="director">Auguste Lumière</div>
+
+          </li>
+          <li id="film_4119" class="clearfix">
+            <div class="position">51</div>
+            <div class="film_title">
+              <a href="/films/4119">Let Each One Go Where He May</a>            </div>
+
+              <div class="director">Ben Russell</div>
+
+          </li>
+          <li id="film_1231" class="clearfix">
+            <div class="position">52</div>
+            <div class="film_title">
+              <a href="/films/1231">Mutter und Sohn</a>            </div>
+
+              <div class="director">Aleksandr Sokurov</div>
+
+          </li>
+          <li id="film_1336" class="clearfix">
+            <div class="position">53</div>
+            <div class="film_title">
+              <a href="/films/1336">Aleksandra</a>            </div>
+
+              <div class="director">Aleksandr Sokurov</div>
+
+          </li>
+          <li id="film_137" class="clearfix">
+            <div class="position">54</div>
+            <div class="film_title">
+              <a href="/films/137">Bin-jip - Leere Häuser</a>            </div>
+
+              <div class="director">Kim Ki-duk</div>
+
+          </li>
+          <li id="film_21077" class="clearfix">
+            <div class="position">55</div>
+            <div class="film_title">
+              <a href="/films/21077">Das Blut</a>            </div>
+
+              <div class="director">Pedro Costa</div>
+
+          </li>
+          <li id="film_1751" class="clearfix">
+            <div class="position">56</div>
+            <div class="film_title">
+              <a href="/films/1751">Eureka</a>            </div>
+
+              <div class="director">Shinji Aoyama</div>
+
+          </li>
+          <li id="film_21442" class="clearfix">
+            <div class="position">57</div>
+            <div class="film_title">
+              <a href="/films/21442">Aaltra</a>            </div>
+
+              <div class="director">Gustave de Kervern</div>
+
+          </li>
+          <li id="film_397" class="clearfix">
+            <div class="position">58</div>
+            <div class="film_title">
+              <a href="/films/397">Der Spiegel</a>            </div>
+
+              <div class="director">Andrei Tarkovsky</div>
+
+          </li>
+          <li id="film_115" class="clearfix">
+            <div class="position">59</div>
+            <div class="film_title">
+              <a href="/films/115">Stalker</a>            </div>
+
+              <div class="director">Andrei Tarkovsky</div>
+
+          </li>
+          <li id="film_553" class="clearfix">
+            <div class="position">60</div>
+            <div class="film_title">
+              <a href="/films/553">Solaris</a>            </div>
+
+              <div class="director">Andrei Tarkovsky</div>
+
+          </li>
+          <li id="film_300" class="clearfix">
+            <div class="position">61</div>
+            <div class="film_title">
+              <a href="/films/300">Andrej Rubljow</a>            </div>
+
+              <div class="director">Andrei Tarkovsky</div>
+
+          </li>
+          <li id="film_12580" class="clearfix">
+            <div class="position">62</div>
+            <div class="film_title">
+              <a href="/films/12580">Nostalghia</a>            </div>
+
+              <div class="director">Andrei Tarkovsky</div>
+
+          </li>
+          <li id="film_401" class="clearfix">
+            <div class="position">63</div>
+            <div class="film_title">
+              <a href="/films/401">Opfer</a>            </div>
+
+              <div class="director">Andrei Tarkovsky</div>
+
+          </li>
+          <li id="film_928" class="clearfix">
+            <div class="position">64</div>
+            <div class="film_title">
+              <a href="/films/928">Liebe 1962</a>            </div>
+
+              <div class="director">Michelangelo Antonioni</div>
+
+          </li>
+          <li id="film_3196" class="clearfix">
+            <div class="position">65</div>
+            <div class="film_title">
+              <a href="/films/3196">Frühling, Sommer, Herbst, Winter... und Frühling</a>            </div>
+
+              <div class="director">Kim Ki-duk</div>
+
+          </li>
+          <li id="film_2192" class="clearfix">
+            <div class="position">66</div>
+            <div class="film_title">
+              <a href="/films/2192">Fata Morgana</a>            </div>
+
+              <div class="director">Werner Herzog</div>
+
+          </li>
+          <li id="film_2971" class="clearfix">
+            <div class="position">67</div>
+            <div class="film_title">
+              <a href="/films/2971">The Horse Thief</a>            </div>
+
+              <div class="director">Tian Zhuangzhuang</div>
+
+          </li>
+          <li id="film_2156" class="clearfix">
+            <div class="position">68</div>
+            <div class="film_title">
+              <a href="/films/2156">The Limits of Control</a>            </div>
+
+              <div class="director">Jim Jarmusch</div>
+
+          </li>
+          <li id="film_1502" class="clearfix">
+            <div class="position">69</div>
+            <div class="film_title">
+              <a href="/films/1502">Paris, Texas</a>            </div>
+
+              <div class="director">Wim Wenders</div>
+
+          </li>
+          <li id="film_998" class="clearfix">
+            <div class="position">70</div>
+            <div class="film_title">
+              <a href="/films/998">Der Stand der Dinge</a>            </div>
+
+              <div class="director">Wim Wenders</div>
+
+          </li>
+          <li id="film_21616" class="clearfix">
+            <div class="position">71</div>
+            <div class="film_title">
+              <a href="/films/21616">Drifter</a>            </div>
+
+              <div class="director">Cao Guimarães</div>
+
+          </li>
+          <li id="film_4004" class="clearfix">
+            <div class="position">72</div>
+            <div class="film_title">
+              <a href="/films/4004">Talking to Strangers</a>            </div>
+
+              <div class="director">Rob Tregenza</div>
+
+          </li>
+          <li id="film_21619" class="clearfix">
+            <div class="position">73</div>
+            <div class="film_title">
+              <a href="/films/21619">Crude Oil</a>            </div>
+
+              <div class="director">Wang Bing</div>
+
+          </li>
+          <li id="film_18083" class="clearfix">
+            <div class="position">74</div>
+            <div class="film_title">
+              <a href="/films/18083">Das Fleisch der Wassermelone</a>            </div>
+
+              <div class="director">Tsai Ming-liang</div>
+
+          </li>
+          <li id="film_21620" class="clearfix">
+            <div class="position">75</div>
+            <div class="film_title">
+              <a href="/films/21620">The Power of Kangwon Province</a>            </div>
+
+              <div class="director">Hong Sang-soo</div>
+
+          </li>
+          <li id="film_21624" class="clearfix">
+            <div class="position">76</div>
+            <div class="film_title">
+              <a href="/films/21624">Inside/Out</a>            </div>
+
+              <div class="director">Rob Tregenza</div>
+
+          </li>
+          <li id="film_21626" class="clearfix">
+            <div class="position">77</div>
+            <div class="film_title">
+              <a href="/films/21626">La libertad</a>            </div>
+
+              <div class="director">Lisandro Alonso</div>
+
+          </li>
+          <li id="film_21628" class="clearfix">
+            <div class="position">78</div>
+            <div class="film_title">
+              <a href="/films/21628">Fantasma</a>            </div>
+
+              <div class="director">Lisandro Alonso</div>
+
+          </li>
+          <li id="film_21629" class="clearfix">
+            <div class="position">79</div>
+            <div class="film_title">
+              <a href="/films/21629">Batang West Side</a>            </div>
+
+              <div class="director">Lav Diaz</div>
+
+          </li>
+          <li id="film_21630" class="clearfix">
+            <div class="position">80</div>
+            <div class="film_title">
+              <a href="/films/21630">Evolution of a Filipino Family</a>            </div>
+
+              <div class="director">Lav Diaz</div>
+
+          </li>
+          <li id="film_21631" class="clearfix">
+            <div class="position">81</div>
+            <div class="film_title">
+              <a href="/films/21631">Heremias (Book One: The Legend of the Lizard Princess)</a>            </div>
+
+              <div class="director">Lav Diaz</div>
+
+          </li>
+          <li id="film_21633" class="clearfix">
+            <div class="position">82</div>
+            <div class="film_title">
+              <a href="/films/21633">Death in the Land of Encantos</a>            </div>
+
+              <div class="director">Lav Diaz</div>
+
+          </li>
+          <li id="film_21634" class="clearfix">
+            <div class="position">83</div>
+            <div class="film_title">
+              <a href="/films/21634">Melancholia</a>            </div>
+
+              <div class="director">Lav Diaz</div>
+
+          </li>
+          <li id="film_21641" class="clearfix">
+            <div class="position">84</div>
+            <div class="film_title">
+              <a href="/films/21641">Dillinger ist tot</a>            </div>
+
+              <div class="director">Marco Ferreri</div>
+
+          </li>
+          <li id="film_21643" class="clearfix">
+            <div class="position">85</div>
+            <div class="film_title">
+              <a href="/films/21643">Tatjana</a>            </div>
+
+              <div class="director">Aki Kaurismäki</div>
+
+          </li>
+          <li id="film_21642" class="clearfix">
+            <div class="position">86</div>
+            <div class="film_title">
+              <a href="/films/21642">Tie Xi Qu: West of the Tracks - Part 1: Rust</a>            </div>
+
+              <div class="director">Wang Bing</div>
+
+          </li>
+          <li id="film_21644" class="clearfix">
+            <div class="position">87</div>
+            <div class="film_title">
+              <a href="/films/21644">Free Floating</a>            </div>
+
+              <div class="director">Boris Khlebnikov</div>
+
+          </li>
+          <li id="film_21668" class="clearfix">
+            <div class="position">88</div>
+            <div class="film_title">
+              <a href="/films/21668">Seven Invisible Men</a>            </div>
+
+              <div class="director">Sharunas Bartas</div>
+
+          </li>
+          <li id="film_20985" class="clearfix">
+            <div class="position">89</div>
+            <div class="film_title">
+              <a href="/films/20985">Freedom</a>            </div>
+
+              <div class="director">Sharunas Bartas</div>
+
+          </li>
+          <li id="film_21617" class="clearfix">
+            <div class="position">90</div>
+            <div class="film_title">
+              <a href="/films/21617">Milky Way</a>            </div>
+
+              <div class="director">Benedek Fliegauf</div>
+
+          </li>
+          <li id="film_135" class="clearfix">
+            <div class="position">91</div>
+            <div class="film_title">
+              <a href="/films/135">What Time is it there?</a>            </div>
+
+              <div class="director">Tsai Ming-liang</div>
+
+          </li>
+          <li id="film_2378" class="clearfix">
+            <div class="position">92</div>
+            <div class="film_title">
+              <a href="/films/2378">Face</a>            </div>
+
+              <div class="director">Tsai Ming-liang</div>
+
+          </li>
+          <li id="film_1022" class="clearfix">
+            <div class="position">93</div>
+            <div class="film_title">
+              <a href="/films/1022">Der Letzte Tanz</a>            </div>
+
+              <div class="director">Tsai Ming-liang</div>
+
+          </li>
+          <li id="film_367" class="clearfix">
+            <div class="position">94</div>
+            <div class="film_title">
+              <a href="/films/367">Der Geist des Bienenstocks</a>            </div>
+
+              <div class="director">Víctor Erice</div>
+
+          </li>
+          <li id="film_21448" class="clearfix">
+            <div class="position">95</div>
+            <div class="film_title">
+              <a href="/films/21448">Der Süden</a>            </div>
+
+              <div class="director">Víctor Erice</div>
+
+          </li>
+          <li id="film_1455" class="clearfix">
+            <div class="position">96</div>
+            <div class="film_title">
+              <a href="/films/1455">The Quince Tree Sun</a>            </div>
+
+              <div class="director">Víctor Erice</div>
+
+          </li>
+          <li id="film_1438" class="clearfix">
+            <div class="position">97</div>
+            <div class="film_title">
+              <a href="/films/1438">Landschaft im Nebel</a>            </div>
+
+              <div class="director">Theodoros Angelopoulos</div>
+
+          </li>
+          <li id="film_21407" class="clearfix">
+            <div class="position">98</div>
+            <div class="film_title">
+              <a href="/films/21407">Landscape Suicide</a>            </div>
+
+              <div class="director">James Benning</div>
+
+          </li>
+          <li id="film_3116" class="clearfix">
+            <div class="position">99</div>
+            <div class="film_title">
+              <a href="/films/3116">One Way Boogie Woogie</a>            </div>
+
+              <div class="director">James Benning</div>
+
+          </li>
+          <li id="film_3591" class="clearfix">
+            <div class="position">100</div>
+            <div class="film_title">
+              <a href="/films/3591">Das jüngste Gewitter</a>            </div>
+
+              <div class="director">Roy Andersson</div>
+
+          </li>
+          <li id="film_1550" class="clearfix">
+            <div class="position">101</div>
+            <div class="film_title">
+              <a href="/films/1550">Der Blick des Odysseus</a>            </div>
+
+              <div class="director">Theodoros Angelopoulos</div>
+
+          </li>
+          <li id="film_1504" class="clearfix">
+            <div class="position">102</div>
+            <div class="film_title">
+              <a href="/films/1504">Die Ewigkeit und ein Tag</a>            </div>
+
+              <div class="director">Theodoros Angelopoulos</div>
+
+          </li>
+          <li id="film_1388" class="clearfix">
+            <div class="position">103</div>
+            <div class="film_title">
+              <a href="/films/1388">Der Wind wird uns tragen</a>            </div>
+
+              <div class="director">Abbas Kiarostami</div>
+
+          </li>
+          <li id="film_20862" class="clearfix">
+            <div class="position">104</div>
+            <div class="film_title">
+              <a href="/films/20862">Die Hoffnungslosen</a>            </div>
+
+              <div class="director">Miklós Jancsó</div>
+
+          </li>
+          <li id="film_651" class="clearfix">
+            <div class="position">105</div>
+            <div class="film_title">
+              <a href="/films/651">Tatis herrliche Zeiten</a>            </div>
+
+              <div class="director">Jacques Tati</div>
+
+          </li>
+          <li id="film_20338" class="clearfix">
+            <div class="position">106</div>
+            <div class="film_title">
+              <a href="/films/20338">Die Angst des Tormanns beim Elfmeter</a>            </div>
+
+              <div class="director">Wim Wenders</div>
+
+          </li>
+          <li id="film_1408" class="clearfix">
+            <div class="position">107</div>
+            <div class="film_title">
+              <a href="/films/1408">Eine Wahre Geschichte</a>            </div>
+
+              <div class="director">David Lynch</div>
+
+          </li>
+          <li id="film_120" class="clearfix">
+            <div class="position">108</div>
+            <div class="film_title">
+              <a href="/films/120">Still Life</a>            </div>
+
+              <div class="director">Jia Zhangke</div>
+
+          </li>
+          <li id="film_21682" class="clearfix">
+            <div class="position">109</div>
+            <div class="film_title">
+              <a href="/films/21682">Sehnsucht</a>            </div>
+
+              <div class="director">Valeska Grisebach</div>
+
+          </li>
+          <li id="film_4093" class="clearfix">
+            <div class="position">110</div>
+            <div class="film_title">
+              <a href="/films/4093">A Letter to Uncle Boonmee</a>            </div>
+
+              <div class="director">Apichatpong Weerasethakul</div>
+
+          </li>
+          <li id="film_2397" class="clearfix">
+            <div class="position">111</div>
+            <div class="film_title">
+              <a href="/films/2397">The Time That Remains</a>            </div>
+
+              <div class="director">Elia Suleiman</div>
+
+          </li>
+          <li id="film_3919" class="clearfix">
+            <div class="position">112</div>
+            <div class="film_title">
+              <a href="/films/3919">11 x 14</a>            </div>
+
+              <div class="director">James Benning</div>
+
+          </li>
+          <li id="film_771" class="clearfix">
+            <div class="position">113</div>
+            <div class="film_title">
+              <a href="/films/771">Tokyo Twilight</a>            </div>
+
+              <div class="director">Yasujirô Ozu</div>
+
+          </li>
+          <li id="film_22951" class="clearfix">
+            <div class="position">114</div>
+            <div class="film_title">
+              <a href="/films/22951">Ruhr</a>            </div>
+
+              <div class="director">James Benning</div>
+
+          </li>
+          <li id="film_23636" class="clearfix">
+            <div class="position">115</div>
+            <div class="film_title">
+              <a href="/films/23636">13 Lakes</a>            </div>
+
+              <div class="director">James Benning</div>
+
+          </li>
+          <li id="film_22343" class="clearfix">
+            <div class="position">116</div>
+            <div class="film_title">
+              <a href="/films/22343">Casa de Lava</a>            </div>
+
+              <div class="director">Pedro Costa</div>
+
+          </li>
+          <li id="film_23205" class="clearfix">
+            <div class="position">117</div>
+            <div class="film_title">
+              <a href="/films/23205">Paraguayan Hammock</a>            </div>
+
+              <div class="director">Paz Encina</div>
+
+          </li>
+          <li id="film_23494" class="clearfix">
+            <div class="position">118</div>
+            <div class="film_title">
+              <a href="/films/23494">North on Evers</a>            </div>
+
+              <div class="director">James Benning</div>
+
+          </li>
+          <li id="film_23640" class="clearfix">
+            <div class="position">119</div>
+            <div class="film_title">
+              <a href="/films/23640">Ten Skies</a>            </div>
+
+              <div class="director">James Benning</div>
+
+          </li>
+          <li id="film_23826" class="clearfix">
+            <div class="position">120</div>
+            <div class="film_title">
+              <a href="/films/23826">Four Corners</a>            </div>
+
+              <div class="director">James Benning</div>
+
+          </li>
+          <li id="film_24014" class="clearfix">
+            <div class="position">121</div>
+            <div class="film_title">
+              <a href="/films/24014">Where Does Your Hidden Smile Lie?</a>            </div>
+
+              <div class="director">Pedro Costa</div>
+
+          </li>
+          <li id="film_1202" class="clearfix">
+            <div class="position">122</div>
+            <div class="film_title">
+              <a href="/films/1202">Tony Takitani</a>            </div>
+
+              <div class="director">Jun Ichikawa</div>
+
+          </li>
+          <li id="film_7111" class="clearfix">
+            <div class="position">123</div>
+            <div class="film_title">
+              <a href="/films/7111">Film</a>            </div>
+
+              <div class="director">Alan Schneider</div>
+
+          </li>
+          <li id="film_783" class="clearfix">
+            <div class="position">124</div>
+            <div class="film_title">
+              <a href="/films/783">Sommerblüten</a>            </div>
+
+              <div class="director">Yasujirô Ozu</div>
+
+          </li>
+          <li id="film_298" class="clearfix">
+            <div class="position">125</div>
+            <div class="film_title">
+              <a href="/films/298">Banshun</a>            </div>
+
+              <div class="director">Yasujirô Ozu</div>
+
+          </li>
+          <li id="film_8606" class="clearfix">
+            <div class="position">126</div>
+            <div class="film_title">
+              <a href="/films/8606">Le révélateur</a>            </div>
+
+              <div class="director">Philippe Garrel</div>
+
+          </li>
+          <li id="film_22685" class="clearfix">
+            <div class="position">127</div>
+            <div class="film_title">
+              <a href="/films/22685">Before Dawn</a>            </div>
+
+              <div class="director">Bálint Kenyeres</div>
+
+          </li>
+          <li id="film_22979" class="clearfix">
+            <div class="position">128</div>
+            <div class="film_title">
+              <a href="/films/22979">Sun Spots</a>            </div>
+
+              <div class="director">Yang Heng</div>
+
+          </li>
+          <li id="film_22721" class="clearfix">
+            <div class="position">129</div>
+            <div class="film_title">
+              <a href="/films/22721">Camel(s)</a>            </div>
+
+              <div class="director">Park Ki-Yong</div>
+
+          </li>
+          <li id="film_24794" class="clearfix">
+            <div class="position">130</div>
+            <div class="film_title">
+              <a href="/films/24794">Elephant</a>            </div>
+
+              <div class="director">Alan Clarke</div>
+
+          </li>
+          <li id="film_24795" class="clearfix">
+            <div class="position">131</div>
+            <div class="film_title">
+              <a href="/films/24795">Deseret</a>            </div>
+
+              <div class="director">James Benning</div>
+
+          </li>
+          <li id="film_24821" class="clearfix">
+            <div class="position">132</div>
+            <div class="film_title">
+              <a href="/films/24821">Worldly Desires</a>            </div>
+
+              <div class="director">Apichatpong Weerasethakul</div>
+
+          </li>
+          <li id="film_21029" class="clearfix">
+            <div class="position">133</div>
+            <div class="film_title">
+              <a href="/films/21029">Un lac</a>            </div>
+
+              <div class="director">Philippe Grandrieux</div>
+
+          </li>
+          <li id="film_466" class="clearfix">
+            <div class="position">134</div>
+            <div class="film_title">
+              <a href="/films/466">La mujer sin cabeza</a>            </div>
+
+              <div class="director">Lucrecia Martel</div>
+
+          </li>
+          <li id="film_25349" class="clearfix">
+            <div class="position">135</div>
+            <div class="film_title">
+              <a href="/films/25349">6 Bagatelles</a>            </div>
+
+              <div class="director">Pedro Costa</div>
+
+          </li>
+          <li id="film_23059" class="clearfix">
+            <div class="position">136</div>
+            <div class="film_title">
+              <a href="/films/23059">The House</a>            </div>
+
+              <div class="director">Sharunas Bartas</div>
+
+          </li>
+          <li id="film_22689" class="clearfix">
+            <div class="position">137</div>
+            <div class="film_title">
+              <a href="/films/22689">Wir sind wenige</a>            </div>
+
+              <div class="director">Sharunas Bartas</div>
+
+          </li>
+          <li id="film_22305" class="clearfix">
+            <div class="position">138</div>
+            <div class="film_title">
+              <a href="/films/22305">In Memory of the Day Passed By</a>            </div>
+
+              <div class="director">Sharunas Bartas</div>
+
+          </li>
+          <li id="film_21942" class="clearfix">
+            <div class="position">139</div>
+            <div class="film_title">
+              <a href="/films/21942">Ossos</a>            </div>
+
+              <div class="director">Pedro Costa</div>
+
+          </li>
+          <li id="film_20624" class="clearfix">
+            <div class="position">140</div>
+            <div class="film_title">
+              <a href="/films/20624">S/T</a>            </div>
+
+              <div class="director">Lisandro Alonso</div>
+
+          </li>
+          <li id="film_28729" class="clearfix">
+            <div class="position">141</div>
+            <div class="film_title">
+              <a href="/films/28729">Los</a>            </div>
+
+              <div class="director">James Benning</div>
+
+          </li>
+          <li id="film_19167" class="clearfix">
+            <div class="position">142</div>
+            <div class="film_title">
+              <a href="/films/19167">Oxhide</a>            </div>
+
+              <div class="director">Liu Jiayin</div>
+
+          </li>
+          <li id="film_29083" class="clearfix">
+            <div class="position">143</div>
+            <div class="film_title">
+              <a href="/films/29083">Life Track</a>            </div>
+
+              <div class="director">Jin Guang-hao</div>
+
+          </li>
+          <li id="film_20978" class="clearfix">
+            <div class="position">144</div>
+            <div class="film_title">
+              <a href="/films/20978">News from Home</a>            </div>
+
+              <div class="director">Chantal Akerman</div>
+
+          </li>
+          <li id="film_23950" class="clearfix">
+            <div class="position">145</div>
+            <div class="film_title">
+              <a href="/films/23950">Alamar</a>            </div>
+
+              <div class="director">Pedro González-Rubio</div>
+
+          </li>
+          <li id="film_32533" class="clearfix">
+            <div class="position">146</div>
+            <div class="film_title">
+              <a href="/films/32533">It&#x27;s Impossible to Learn to Plow by Reading Books</a>            </div>
+
+              <div class="director">Richard Linklater</div>
+
+          </li>
+          <li id="film_3138" class="clearfix">
+            <div class="position">147</div>
+            <div class="film_title">
+              <a href="/films/3138">Vom langsamen Leben in Wales</a>            </div>
+
+              <div class="director">Gideon Koppel</div>
+
+          </li>
+          <li id="film_32767" class="clearfix">
+            <div class="position">148</div>
+            <div class="film_title">
+              <a href="/films/32767">Prologue</a>            </div>
+
+              <div class="director">Béla Tarr</div>
+
+          </li>
+          <li id="film_36125" class="clearfix">
+            <div class="position">149</div>
+            <div class="film_title">
+              <a href="/films/36125">A Tree in Tanjung Malim</a>            </div>
+
+              <div class="director">Tan Chui Mui</div>
+
+          </li>
+          <li id="film_335" class="clearfix">
+            <div class="position">150</div>
+            <div class="film_title">
+              <a href="/films/335">I Don&#x27;t Want to Sleep Alone</a>            </div>
+
+              <div class="director">Tsai Ming-liang</div>
+
+          </li>
+          <li id="film_38410" class="clearfix">
+            <div class="position">151</div>
+            <div class="film_title">
+              <a href="/films/38410">Das Turiner Pferd</a>            </div>
+
+              <div class="director">Béla Tarr</div>
+
+          </li>
+          <li id="film_37735" class="clearfix">
+            <div class="position">152</div>
+            <div class="film_title">
+              <a href="/films/37735">Now Showing</a>            </div>
+
+              <div class="director">Raya Martin</div>
+
+          </li>
+          <li id="film_39180" class="clearfix">
+            <div class="position">153</div>
+            <div class="film_title">
+              <a href="/films/39180">Twenty Cigarettes</a>            </div>
+
+              <div class="director">James Benning</div>
+
+          </li>
+          <li id="film_35137" class="clearfix">
+            <div class="position">154</div>
+            <div class="film_title">
+              <a href="/films/35137">Lunch Break</a>            </div>
+
+              <div class="director">Sharon Lockhart</div>
+
+          </li>
+          <li id="film_25181" class="clearfix">
+            <div class="position">155</div>
+            <div class="film_title">
+              <a href="/films/25181">Elegy of a Voyage</a>            </div>
+
+              <div class="director">Aleksandr Sokurov</div>
+
+          </li>
+          <li id="film_37404" class="clearfix">
+            <div class="position">156</div>
+            <div class="film_title">
+              <a href="/films/37404">Black and White Trypps Number Three</a>            </div>
+
+              <div class="director">Ben Russell</div>
+
+          </li>
+          <li id="film_38476" class="clearfix">
+            <div class="position">157</div>
+            <div class="film_title">
+              <a href="/films/38476">Flying Fish</a>            </div>
+
+              <div class="director">Sanjeewa Pushpakumara</div>
+
+          </li>
+          <li id="film_36720" class="clearfix">
+            <div class="position">158</div>
+            <div class="film_title">
+              <a href="/films/36720">Time is working around Rotterdam</a>            </div>
+
+              <div class="director">Valérie Jouve</div>
+
+          </li>
+          <li id="film_25153" class="clearfix">
+            <div class="position">159</div>
+            <div class="film_title">
+              <a href="/films/25153">Eastern Drift</a>            </div>
+
+              <div class="director">Sharunas Bartas</div>
+
+          </li>
+          <li id="film_26242" class="clearfix">
+            <div class="position">160</div>
+            <div class="film_title">
+              <a href="/films/26242">My Joy</a>            </div>
+
+              <div class="director">Sergei Loznitsa</div>
+
+          </li>
+          <li id="film_30606" class="clearfix">
+            <div class="position">161</div>
+            <div class="film_title">
+              <a href="/films/30606">New York, N.Y.</a>            </div>
+
+              <div class="director">Raymond Depardon</div>
+
+          </li>
+          <li id="film_32364" class="clearfix">
+            <div class="position">162</div>
+            <div class="film_title">
+              <a href="/films/32364">Sewer</a>            </div>
+
+              <div class="director">Sherad Anthony Sanchez</div>
+
+          </li>
+          <li id="film_34465" class="clearfix">
+            <div class="position">163</div>
+            <div class="film_title">
+              <a href="/films/34465">Ex It</a>            </div>
+
+              <div class="director">Cao Guimarães</div>
+
+          </li>
+          <li id="film_875" class="clearfix">
+            <div class="position">164</div>
+            <div class="film_title">
+              <a href="/films/875">Early Summer</a>            </div>
+
+              <div class="director">Yasujirô Ozu</div>
+
+          </li>
+          <li id="film_20964" class="clearfix">
+            <div class="position">165</div>
+            <div class="film_title">
+              <a href="/films/20964">Train of Shadows</a>            </div>
+
+              <div class="director">José Luis Guerín</div>
+
+          </li>
+          <li id="film_36480" class="clearfix">
+            <div class="position">166</div>
+            <div class="film_title">
+              <a href="/films/36480">New York Portrait, Chapter I</a>            </div>
+
+              <div class="director">Peter Hutton</div>
+
+          </li>
+          <li id="film_22915" class="clearfix">
+            <div class="position">167</div>
+            <div class="film_title">
+              <a href="/films/22915">Three Days</a>            </div>
+
+              <div class="director">Sharunas Bartas</div>
+
+          </li>
+          <li id="film_33257" class="clearfix">
+            <div class="position">168</div>
+            <div class="film_title">
+              <a href="/films/33257">Archipelago</a>            </div>
+
+              <div class="director">Joanna Hogg</div>
+
+          </li>
+          <li id="film_3674" class="clearfix">
+            <div class="position">169</div>
+            <div class="film_title">
+              <a href="/films/3674">At Land</a>            </div>
+
+              <div class="director">Maya Deren</div>
+
+          </li>
+          <li id="film_458" class="clearfix">
+            <div class="position">170</div>
+            <div class="film_title">
+              <a href="/films/458">Vier Nächte eines Träumers</a>            </div>
+
+              <div class="director">Robert Bresson</div>
+
+          </li>
+          <li id="film_92595" class="clearfix">
+            <div class="position">171</div>
+            <div class="film_title">
+              <a href="/films/92595">Goshogaoka</a>            </div>
+
+              <div class="director">Sharon Lockhart</div>
+
+          </li>
+          <li id="film_34645" class="clearfix">
+            <div class="position">172</div>
+            <div class="film_title">
+              <a href="/films/34645">607</a>            </div>
+
+              <div class="director">Liu Jiayin</div>
+
+          </li>
+          <li id="film_24099" class="clearfix">
+            <div class="position">173</div>
+            <div class="film_title">
+              <a href="/films/24099">The Fourth Dimension</a>            </div>
+
+              <div class="director">Trinh T. Minh-ha</div>
+
+          </li>
+          <li id="film_40496" class="clearfix">
+            <div class="position">174</div>
+            <div class="film_title">
+              <a href="/films/40496">Podwórka</a>            </div>
+
+              <div class="director">Sharon Lockhart</div>
+
+          </li>
+          <li id="film_91417" class="clearfix">
+            <div class="position">175</div>
+            <div class="film_title">
+              <a href="/films/91417">Sin título (Carta para Serra)</a>            </div>
+
+              <div class="director">Lisandro Alonso</div>
+
+          </li>
+          <li id="film_18561" class="clearfix">
+            <div class="position">176</div>
+            <div class="film_title">
+              <a href="/films/18561">Dealer</a>            </div>
+
+              <div class="director">Benedek Fliegauf</div>
+
+          </li>
+          <li id="film_43010" class="clearfix">
+            <div class="position">177</div>
+            <div class="film_title">
+              <a href="/films/43010">Abendland</a>            </div>
+
+              <div class="director">Nikolaus Geyrhalter</div>
+
+          </li>
+          <li id="film_94596" class="clearfix">
+            <div class="position">178</div>
+            <div class="film_title">
+              <a href="/films/94596">Florentina Hubaldo, CTE</a>            </div>
+
+              <div class="director">Lav Diaz</div>
+
+          </li>
+          <li id="film_88691" class="clearfix">
+            <div class="position">179</div>
+            <div class="film_title">
+              <a href="/films/88691">Century of Birthing - Part One</a>            </div>
+
+              <div class="director">Lav Diaz</div>
+
+          </li>
+          <li id="film_96749" class="clearfix">
+            <div class="position">180</div>
+            <div class="film_title">
+              <a href="/films/96749">Feldberg</a>            </div>
+
+              <div class="director">Michael Pilz</div>
+
+          </li>
+          <li id="film_39905" class="clearfix">
+            <div class="position">181</div>
+            <div class="film_title">
+              <a href="/films/39905">Trypps #7 (Badlands)</a>            </div>
+
+              <div class="director">Ben Russell</div>
+
+          </li>
+          <li id="film_30603" class="clearfix">
+            <div class="position">182</div>
+            <div class="film_title">
+              <a href="/films/30603">Boat Leaving the Port</a>            </div>
+
+              <div class="director">Louis Lumière</div>
+
+          </li>
+          <li id="film_100817" class="clearfix">
+            <div class="position">183</div>
+            <div class="film_title">
+              <a href="/films/100817">Ponce de León</a>            </div>
+
+              <div class="director">Ben Russell</div>
+
+          </li>
+          <li id="film_94599" class="clearfix">
+            <div class="position">184</div>
+            <div class="film_title">
+              <a href="/films/94599">small roads</a>            </div>
+
+              <div class="director">James Benning</div>
+
+          </li>
+          <li id="film_5952" class="clearfix">
+            <div class="position">185</div>
+            <div class="film_title">
+              <a href="/films/5952">Gerry</a>            </div>
+
+              <div class="director">Gus Van Sant</div>
+
+          </li>
+          <li id="film_89984" class="clearfix">
+            <div class="position">186</div>
+            <div class="film_title">
+              <a href="/films/89984">Two Years at Sea</a>            </div>
+
+              <div class="director">Ben Rivers</div>
+
+          </li>
+          <li id="film_27481" class="clearfix">
+            <div class="position">187</div>
+            <div class="film_title">
+              <a href="/films/27481">Pine Flat</a>            </div>
+
+              <div class="director">Sharon Lockhart</div>
+
+          </li>
+          <li id="film_98154" class="clearfix">
+            <div class="position">188</div>
+            <div class="film_title">
+              <a href="/films/98154">The Clock</a>            </div>
+
+              <div class="director">Christian Marclay</div>
+
+          </li>
+          <li id="film_21431" class="clearfix">
+            <div class="position">189</div>
+            <div class="film_title">
+              <a href="/films/21431">Cremaster 1</a>            </div>
+
+              <div class="director">Matthew Barney</div>
+
+          </li>
+          <li id="film_32277" class="clearfix">
+            <div class="position">190</div>
+            <div class="film_title">
+              <a href="/films/32277">Train of Thought</a>            </div>
+
+              <div class="director">Jim Jennings</div>
+
+          </li>
+          <li id="film_103297" class="clearfix">
+            <div class="position">191</div>
+            <div class="film_title">
+              <a href="/films/103297">Stemple Pass</a>            </div>
+
+              <div class="director">James Benning</div>
+
+          </li>
+          <li id="film_98845" class="clearfix">
+            <div class="position">192</div>
+            <div class="film_title">
+              <a href="/films/98845">Leviathan</a>            </div>
+
+              <div class="director">Verena Paravel</div>
+
+          </li>
+          <li id="film_103685" class="clearfix">
+            <div class="position">193</div>
+            <div class="film_title">
+              <a href="/films/103685">Luv&#x27;in the black country</a>            </div>
+
+              <div class="director">Matthew E Carter</div>
+
+          </li>
+          <li id="film_25446" class="clearfix">
+            <div class="position">194</div>
+            <div class="film_title">
+              <a href="/films/25446">Buried in Light</a>            </div>
+
+              <div class="director">Jem Cohen</div>
+
+          </li>
+          <li id="film_21" class="clearfix">
+            <div class="position">195</div>
+            <div class="film_title">
+              <a href="/films/21">After Life - Nach dem Leben</a>            </div>
+
+              <div class="director">Hirokazu Kore-eda</div>
+
+          </li>
+          <li id="film_35282" class="clearfix">
+            <div class="position">196</div>
+            <div class="film_title">
+              <a href="/films/35282">Skagafjordur</a>            </div>
+
+              <div class="director">Peter Hutton</div>
+
+          </li>
+          <li id="film_108185" class="clearfix">
+            <div class="position">197</div>
+            <div class="film_title">
+              <a href="/films/108185">Lost Book Found</a>            </div>
+
+              <div class="director">Jem Cohen</div>
+
+          </li>
+          <li id="film_105260" class="clearfix">
+            <div class="position">198</div>
+            <div class="film_title">
+              <a href="/films/105260">Easy Rider</a>            </div>
+
+              <div class="director">James Benning</div>
+
+          </li>
+          <li id="film_107525" class="clearfix">
+            <div class="position">199</div>
+            <div class="film_title">
+              <a href="/films/107525">Exhibition</a>            </div>
+
+              <div class="director">Joanna Hogg</div>
+
+          </li>
+          <li id="film_108563" class="clearfix">
+            <div class="position">200</div>
+            <div class="film_title">
+              <a href="/films/108563">Manakamana</a>            </div>
+
+              <div class="director">Stephanie Spray</div>
+
+          </li>
+          <li id="film_107875" class="clearfix">
+            <div class="position">201</div>
+            <div class="film_title">
+              <a href="/films/107875">Sitting</a>            </div>
+
+              <div class="director">Leighton Pierce</div>
+
+          </li>
+          <li id="film_32279" class="clearfix">
+            <div class="position">202</div>
+            <div class="film_title">
+              <a href="/films/32279">Nocturne</a>            </div>
+
+              <div class="director">Emily Richardson</div>
+
+          </li>
+          <li id="film_107086" class="clearfix">
+            <div class="position">203</div>
+            <div class="film_title">
+              <a href="/films/107086">Silence</a>            </div>
+
+              <div class="director">Pat Collins</div>
+
+          </li>
+          <li id="film_37616" class="clearfix">
+            <div class="position">204</div>
+            <div class="film_title">
+              <a href="/films/37616">Verhängnis</a>            </div>
+
+              <div class="director">Fred Kelemen</div>
+
+          </li>
+          <li id="film_23174" class="clearfix">
+            <div class="position">205</div>
+            <div class="film_title">
+              <a href="/films/23174">Fallen</a>            </div>
+
+              <div class="director">Fred Kelemen</div>
+
+          </li>
+          <li id="film_37615" class="clearfix">
+            <div class="position">206</div>
+            <div class="film_title">
+              <a href="/films/37615">Frost</a>            </div>
+
+              <div class="director">Fred Kelemen</div>
+
+          </li>
+          <li id="film_23795" class="clearfix">
+            <div class="position">207</div>
+            <div class="film_title">
+              <a href="/films/23795">Abendland</a>            </div>
+
+              <div class="director">Fred Kelemen</div>
+
+          </li>
+      </ul>
+
+      <div class="actions">
+        <a href="#" class="fanship " fannable_id="149" fannable_type="List">&nbsp;</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="use6">
+  
+<div id="mini_wall">
+  <h4>Wall</h4>
+  <div class="content_description">
+    <div class="left">Displaying 4 of 53 wall posts.</div>
+    <div class="right"><a href="/lists/contemplative-cinema-starter-pack/wall">see all</a></div>
+  </div>
+
+  <div class="content_group">
+  <div id="new_post">
+    <div id="new_post_form_wrap">
+      <form accept-charset="UTF-8" action="/lists/contemplative-cinema-starter-pack/wall_posts" method="post" onsubmit="TA.Wall.createPost(); return false;"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="xEb1phdvbwo0caP+P+7PBaap7xdAFH4nm6lUtAyZ548=" /></div>
+        <input type="hidden" id="wall_id" name="wall_post[wall_id]" value="95377" />
+        <textarea class="" onfocus="if(this.value == 'Write Something…'){this.value=''}" name="wall_post[body]">Write Something…</textarea>
+        <div class="submit" id="new_post_form_submit">
+          <input type="submit" class="loginrequired" value="Post" />
+        </div>
+</form>    </div>
+  </div>
+
+  <script type="text/javascript" charset="utf-8">
+    document.observe('dom:loaded', TA.Wall.initialize.bind(TA.Wall));
+  </script>
+
+
+    <div class="wall_post content" id="wall_post_631287">
+      <div class="column user_avatar_col"><a href="/users/233334" class="user_avatar"><img alt="Picture of àlex.agustí." src="//s3.amazonaws.com/auteurs_production/avatars/17225/w64.jpg?1298042663" title="àlex.agustí." width="64" /></a></div>
+      <div class="column user_avatar_col2">
+        <a href="/wall_posts/631287/flag" class="icon hover flag" data-confirm="If this content is inappropriate, click OK to flag it and the moderators will be notified." data-method="put" rel="nofollow" title="Flag this content as inappropriate">Report Abuse</a>
+        <h3 class="user_name"><a href="/users/233334" class="username unique">àlex.agustí.</a></h3>
+        <h4 class="date"><a href="/wall_posts/631287"> 5Nov13</a></h4>
+        <p>http://vimeo.com/47489912</p>
+        <div class="actions social_actions clearfix">
+          
+              <form action="/fanships?id=631287&amp;type=WallPost" class="toggle_like_form" method="post"><div><input class="social" type="submit" value="Like" /><input name="authenticity_token" type="hidden" value="xEb1phdvbwo0caP+P+7PBaap7xdAFH4nm6lUtAyZ548=" /></div></form>
+<a href="#comment_for_631287" class="comment_on_wp social">Comment</a>
+        </div>  
+      </div>
+      <div class="liked_by column" id="fans_of_wall_post_631287" style="display:none">
+</div>
+
+      <ul class="wallpost_comments column clear" style="display:none">
+    <li class="wall_post_comment_form clearfix"  id="comment_for_631287">
+      <a href="/users/156461" class="user_avatar"><img alt="Picture of Markus Ackermann" src="//mubi.com/assets/placeholders/avatar.png" title="Markus Ackermann" width="32" /></a>
+      <form accept-charset="UTF-8" action="/wall_posts/631287/wall_post_comments" class="clearfix" id="new_wall_post_comment" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="xEb1phdvbwo0caP+P+7PBaap7xdAFH4nm6lUtAyZ548=" /></div>
+        <textarea rows="3" cols="40" class="expand42-200 with_default_text" title="Write a comment&hellip;" name="wall_post_comment[body]"></textarea>
+        <div class="submit">
+          <input type="submit" class="loginrequired" value="Post" />
+          <img class="loading" src="/assets/ajax_white.gif" width="16" height="16" style="display: none; margin-left: 16px;" />
+        </div>
+</form>    </li>
+</ul>
+
+</div>    <div class="wall_post content" id="wall_post_630231">
+      <div class="column user_avatar_col"><a href="/users/6333555" class="user_avatar"><img alt="Picture of Jay Co" src="//s3.amazonaws.com/auteurs_production/avatars/93816/w64.jpg?1383239358" title="Jay Co" width="64" /></a></div>
+      <div class="column user_avatar_col2">
+        <a href="/wall_posts/630231/flag" class="icon hover flag" data-confirm="If this content is inappropriate, click OK to flag it and the moderators will be notified." data-method="put" rel="nofollow" title="Flag this content as inappropriate">Report Abuse</a>
+        <h3 class="user_name"><a href="/users/6333555" class="username">Jay Co</a></h3>
+        <h4 class="date"><a href="/wall_posts/630231"> 1Nov13</a></h4>
+        <p>Thanks for a great list!  I was looking for movies to watch while writing music--and had in mind movies like Ulysses&#x27;s Gaze, Nostalghia, and Millennium Mambo.  To find a list that is built around this feeling is really fantastic.  Thank you!</p>
+        <div class="actions social_actions clearfix">
+          
+              <form action="/fanships?id=630231&amp;type=WallPost" class="toggle_like_form" method="post"><div><input class="social" type="submit" value="Like" /><input name="authenticity_token" type="hidden" value="xEb1phdvbwo0caP+P+7PBaap7xdAFH4nm6lUtAyZ548=" /></div></form>
+<a href="#comment_for_630231" class="comment_on_wp social">Comment</a>
+        </div>  
+      </div>
+      <div class="liked_by column" id="fans_of_wall_post_630231" style="display:none">
+</div>
+
+      <ul class="wallpost_comments column clear" style="display:none">
+    <li class="wall_post_comment_form clearfix"  id="comment_for_630231">
+      <a href="/users/156461" class="user_avatar"><img alt="Picture of Markus Ackermann" src="//mubi.com/assets/placeholders/avatar.png" title="Markus Ackermann" width="32" /></a>
+      <form accept-charset="UTF-8" action="/wall_posts/630231/wall_post_comments" class="clearfix" id="new_wall_post_comment" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="xEb1phdvbwo0caP+P+7PBaap7xdAFH4nm6lUtAyZ548=" /></div>
+        <textarea rows="3" cols="40" class="expand42-200 with_default_text" title="Write a comment&hellip;" name="wall_post_comment[body]"></textarea>
+        <div class="submit">
+          <input type="submit" class="loginrequired" value="Post" />
+          <img class="loading" src="/assets/ajax_white.gif" width="16" height="16" style="display: none; margin-left: 16px;" />
+        </div>
+</form>    </li>
+</ul>
+
+</div>    <div class="wall_post content" id="wall_post_578234">
+      <div class="column user_avatar_col"><a href="/users/315652" class="user_avatar"><img alt="Picture of ExperimentoFilm" src="//s3.amazonaws.com/auteurs_production/avatars/35502/w64.jpg?1301562155" title="ExperimentoFilm" width="64" /></a></div>
+      <div class="column user_avatar_col2">
+        <a href="/wall_posts/578234/flag" class="icon hover flag" data-confirm="If this content is inappropriate, click OK to flag it and the moderators will be notified." data-method="put" rel="nofollow" title="Flag this content as inappropriate">Report Abuse</a>
+        <h3 class="user_name"><a href="/users/315652" class="username unique">ExperimentoFilm</a></h3>
+        <h4 class="date"><a href="/wall_posts/578234">26Mar13</a></h4>
+        <p>http://mubi.com/films/nathalie-granger</p>
+        <div class="actions social_actions clearfix">
+          
+              <form action="/fanships?id=578234&amp;type=WallPost" class="toggle_like_form" method="post"><div><input class="social" type="submit" value="Like" /><input name="authenticity_token" type="hidden" value="xEb1phdvbwo0caP+P+7PBaap7xdAFH4nm6lUtAyZ548=" /></div></form>
+<a href="#comment_for_578234" class="comment_on_wp social">Comment</a>
+        </div>  
+      </div>
+      <div class="liked_by column" id="fans_of_wall_post_578234" style="display:none">
+</div>
+
+      <ul class="wallpost_comments column clear" style="">
+    <li class="wall_post_comment clearfix" id="wall_post_comment_76211">
+  <a href="/users/315652" class="user_avatar"><img alt="Picture of ExperimentoFilm" src="//s3.amazonaws.com/auteurs_production/avatars/35502/w32.jpg?1301562155" title="ExperimentoFilm" width="32" /></a>
+  
+  <a href="/wall_post_comments/76211/flag" class="icon hover flag" data-confirm="If this content is inappropriate, click OK to flag it and the moderators will be notified." data-method="put" rel="nofollow" title="Flag this content as inappropriate">Report Abuse</a>
+  <div class="content">
+    <h3 class="user_name"><a href="/users/315652" class="username unique">ExperimentoFilm</a></h3>
+    <h4 class="date"><a href="/wall_post_comments/76211">26Mar13</a></h4>
+    <p>http://mubi.com/films/miotte-vu-par-raul-ruiz</p>
+  </div>
+</li>
+    <li class="wall_post_comment clearfix" id="wall_post_comment_76212">
+  <a href="/users/315652" class="user_avatar"><img alt="Picture of ExperimentoFilm" src="//s3.amazonaws.com/auteurs_production/avatars/35502/w32.jpg?1301562155" title="ExperimentoFilm" width="32" /></a>
+  
+  <a href="/wall_post_comments/76212/flag" class="icon hover flag" data-confirm="If this content is inappropriate, click OK to flag it and the moderators will be notified." data-method="put" rel="nofollow" title="Flag this content as inappropriate">Report Abuse</a>
+  <div class="content">
+    <h3 class="user_name"><a href="/users/315652" class="username unique">ExperimentoFilm</a></h3>
+    <h4 class="date"><a href="/wall_post_comments/76212">26Mar13</a></h4>
+    <p>http://mubi.com/films/the-immortal</p>
+  </div>
+</li>
+    <li class="wall_post_comment clearfix" id="wall_post_comment_76214">
+  <a href="/users/315652" class="user_avatar"><img alt="Picture of ExperimentoFilm" src="//s3.amazonaws.com/auteurs_production/avatars/35502/w32.jpg?1301562155" title="ExperimentoFilm" width="32" /></a>
+  
+  <a href="/wall_post_comments/76214/flag" class="icon hover flag" data-confirm="If this content is inappropriate, click OK to flag it and the moderators will be notified." data-method="put" rel="nofollow" title="Flag this content as inappropriate">Report Abuse</a>
+  <div class="content">
+    <h3 class="user_name"><a href="/users/315652" class="username unique">ExperimentoFilm</a></h3>
+    <h4 class="date"><a href="/wall_post_comments/76214">26Mar13</a></h4>
+    <p>http://mubi.com/films/in-the-white-city</p>
+  </div>
+</li>
+    <li class="wall_post_comment_form clearfix"  id="comment_for_578234">
+      <a href="/users/156461" class="user_avatar"><img alt="Picture of Markus Ackermann" src="//mubi.com/assets/placeholders/avatar.png" title="Markus Ackermann" width="32" /></a>
+      <form accept-charset="UTF-8" action="/wall_posts/578234/wall_post_comments" class="clearfix" id="new_wall_post_comment" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="xEb1phdvbwo0caP+P+7PBaap7xdAFH4nm6lUtAyZ548=" /></div>
+        <textarea rows="3" cols="40" class="expand42-200 with_default_text" title="Write a comment&hellip;" name="wall_post_comment[body]"></textarea>
+        <div class="submit">
+          <input type="submit" class="loginrequired" value="Post" />
+          <img class="loading" src="/assets/ajax_white.gif" width="16" height="16" style="display: none; margin-left: 16px;" />
+        </div>
+</form>    </li>
+</ul>
+
+</div>    <div class="wall_post content  last" id="wall_post_504230">
+      <div class="column user_avatar_col"><a href="/users/5017754" class="user_avatar"><img alt="Picture of Sean P" src="//s3.amazonaws.com/auteurs_production/avatars/74885/w64.gif?1350517146" title="Sean P" width="64" /></a></div>
+      <div class="column user_avatar_col2">
+        <a href="/wall_posts/504230/flag" class="icon hover flag" data-confirm="If this content is inappropriate, click OK to flag it and the moderators will be notified." data-method="put" rel="nofollow" title="Flag this content as inappropriate">Report Abuse</a>
+        <h3 class="user_name"><a href="/users/5017754" class="username">Sean P</a></h3>
+        <h4 class="date"><a href="/wall_posts/504230">24Sep12</a></h4>
+        <p>may i recommend the films of jon jost?  The Bed You Sleep In in particular.  </p>
+        <div class="actions social_actions clearfix">
+          
+              <form action="/fanships?id=504230&amp;type=WallPost" class="toggle_like_form" method="post"><div><input class="social" type="submit" value="Like" /><input name="authenticity_token" type="hidden" value="xEb1phdvbwo0caP+P+7PBaap7xdAFH4nm6lUtAyZ548=" /></div></form>
+<a href="#comment_for_504230" class="comment_on_wp social">Comment</a>
+        </div>  
+      </div>
+      <div class="liked_by column" id="fans_of_wall_post_504230" style="">
+    <div class="summary">
+      <a href="/users/5729238">Anastasia</a> likes this
+    </div>
+    <p class="user_list">
+            
+    </p>
+</div>
+
+      <ul class="wallpost_comments column clear" style="display:none">
+    <li class="wall_post_comment_form clearfix"  id="comment_for_504230">
+      <a href="/users/156461" class="user_avatar"><img alt="Picture of Markus Ackermann" src="//mubi.com/assets/placeholders/avatar.png" title="Markus Ackermann" width="32" /></a>
+      <form accept-charset="UTF-8" action="/wall_posts/504230/wall_post_comments" class="clearfix" id="new_wall_post_comment" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="xEb1phdvbwo0caP+P+7PBaap7xdAFH4nm6lUtAyZ548=" /></div>
+        <textarea rows="3" cols="40" class="expand42-200 with_default_text" title="Write a comment&hellip;" name="wall_post_comment[body]"></textarea>
+        <div class="submit">
+          <input type="submit" class="loginrequired" value="Post" />
+          <img class="loading" src="/assets/ajax_white.gif" width="16" height="16" style="display: none; margin-left: 16px;" />
+        </div>
+</form>    </li>
+</ul>
+
+</div></div>
+
+
+</div>
+
+</div>
+
+<div class="use6">
+    <h4>Fans</h4>
+    <div class="content_description">
+      <div class="left">Displaying 5 of 630 fans.</div>
+      <div class="right"><a href="https://mubi.com/lists/contemplative-cinema-starter-pack/fans">see all</a></div>
+    </div>
+    <div class="content">
+      <div class="row fiveup lastrow"><div class="item" data-item-id="2666960">
+           <a href="/users/2666960" class="user_avatar"><img alt="Picture of Nobeat Beat" src="//graph.facebook.com/699486437/picture?width=100&amp;height=100" title="Nobeat Beat" width="64" /></a>
+           <h3 class="user_name"><a href="/users/2666960" class="username unique">Nobeat Beat</a></h3>
+</div><div class="item" data-item-id="1369749">
+           <a href="/users/1369749" class="user_avatar"><img alt="Picture of Juan" src="//s3.amazonaws.com/auteurs_production/avatars/88618/w64.png?1396967134" title="Juan" width="64" /></a>
+           <h3 class="user_name"><a href="/users/1369749" class="username">Juan</a></h3>
+</div><div class="item" data-item-id="5168101">
+           <a href="/users/5168101" class="user_avatar"><img alt="Picture of T.W" src="//s3.amazonaws.com/auteurs_production/avatars/92022/w64.gif?1392442930" title="T.W" width="64" /></a>
+           <h3 class="user_name"><a href="/users/5168101" class="username unique">T.W</a></h3>
+</div><div class="item" data-item-id="4886627">
+           <a href="/users/4886627" class="user_avatar"><img alt="Picture of Francisco Vaz" src="//graph.facebook.com/100000634771118/picture?width=100&amp;height=100" title="Francisco Vaz" width="64" /></a>
+           <h3 class="user_name"><a href="/users/4886627" class="username">Francis&#8203;co Vaz</a></h3>
+</div><div class="item last" data-item-id="6170936">
+           <a href="/users/6170936" class="user_avatar"><img alt="Picture of BlackCostanza" src="//s3.amazonaws.com/auteurs_production/avatars/95318/w64.jpg?1386202179" title="BlackCostanza" width="64" /></a>
+           <h3 class="user_name"><a href="/users/6170936" class="username">BlackCo&#8203;stanza</a></h3>
+</div></div>    </div>
+</div>
+
+
+    <br class="clear" />
+  </div></div>
+
+<script type="text/javascript">
+  $j(document).ready( function() {
+    $j('.feedback').click( function() {
+      if(feedback_widget) {
+        feedback_widget.show();
+        return false;
+      }
+    });
+  });
+</script>
+
+<div id="footer" class="clear clearfix">
+  <ul>
+    <li><a href="/about">About MUBI</a>&nbsp;&nbsp;|&nbsp;</li>
+    <li><a href="/jobs">Jobs</a>&nbsp;&nbsp;|&nbsp;</li>
+    <li><a href="/press">Press</a>&nbsp;&nbsp;|&nbsp;</li>
+    <li><a href="/terms_of_service">Terms</a>&nbsp;&nbsp;|&nbsp;</li>
+    <li><a href="/privacy_policy">Privacy</a>&nbsp;&nbsp;|&nbsp;</li>
+    <li><a href="/faq" class="last">FAQ and Support</a></li>
+  </ul>
+
+  <div class="copyright">
+    <p>MUBI &copy;2008-2014</p>
+  </div> <!-- END COPYRIGHT -->
+
+</div> <!-- END FOOTER -->
+<div id="fb-root"></div>
+
+<script>
+  window.fbAsyncInit = function() {
+    TA.initializeFBConnect();
+  };
+  (function() {
+    var e = document.createElement('script'); e.async = true;
+    e.src = document.location.protocol +
+      '//connect.facebook.net/en_US/all.js';
+    document.getElementById('fb-root').appendChild(e);
+  }());
+</script>
+
+
+
+<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
+NREUMQ.push(["load",new Date().getTime()]);
+var e=document.createElement("script");
+e.type="text/javascript";
+e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" +
+  "js-agent.newrelic.com/nr-100.js";
+document.body.appendChild(e);
+if(NREUMQ.a)NREUMQ.a();
+};
+NREUMQ.a=window.onload;window.onload=NREUMQ.f;
+};
+NREUMQ.push(["nrfj","beacon-1.newrelic.com","67f96dada0","2205831","d1wMR0YNDVpdFhsPDUdHERxHCg5B",6,793,new Date().getTime(),"","","","",""]);</script></body>
+</html>

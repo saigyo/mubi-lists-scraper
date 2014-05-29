@@ -1,0 +1,328 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+
+<head><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+  <title>Movie Lists</title>
+  
+  
+
+  <meta http-equiv="content-type" content="application/xhtml+xml; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="google-site-verification" content="3p-1owiUMKNVL6boYaAn0Pn7GBV7b3ufW2CnUcww-Tc" />
+  <meta name="msvalidate.01" content="A814355EBC4D849EFD056C4EBCA2BB1E" />
+    <meta name="description" content="" />
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="xEb1phdvbwo0caP+P+7PBaap7xdAFH4nm6lUtAyZ548=" name="csrf-token" />
+
+  
+
+  <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+  <link href="/favicon.ico" rel="icon" type="image/x-icon" />
+
+  <link href="/assets/application-c91871a304a125049e1d7076174bba95.css" media="screen" rel="stylesheet" type="text/css" />
+
+
+  <script type="text/javascript" charset="utf-8">
+  // Define MUBI namespace (Why is it TA then!?!?!?!?!?!?!???)
+    TA = {};
+    TA.domain = 'mubi.com';
+    TA.fb_app_id = 5409810948;
+    TA.disable_fb_auto_login = false;
+    TA.country = 'DE';
+    TA.current_locale = 'de-DE';
+
+    TA.userid = 156461;
+    TA.userFirstName = "Markus";
+    TA.fb_userid = null;
+    TA.roles = [];
+      TA.auth_token = "xEb1phdvbwo0caP+P+7PBaap7xdAFH4nm6lUtAyZ548=";
+  </script>
+
+  <script src="/assets/main-dbbac0f94d331c65662e2880adacde63.js" type="text/javascript"></script>
+
+  <!--[if lte IE 7]>
+  <script src="/assets/main-ie7/jquery.dropdown-6db598fb280b40bbeeea123a382066dc.js" type="text/javascript"></script>
+  <![endif]-->
+
+  
+
+  <script type="text/javascript">
+    $j(document).ready( function() {
+      
+    });
+  </script>
+
+  
+
+    <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-286175-3']);
+    _gaq.push(['_trackPageview']);
+
+    
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+</head>
+
+
+<body class="">
+
+
+
+
+
+  <div id="wrap_positioner"><div id="wrap">
+    <div class="use12">
+      <a id="logo" class="" href="/">MUBI</a>
+
+      <div id="global_flash_container">
+        <div id="global_flash" style="display: none;"></div>
+      </div>
+
+      
+
+    </div>
+
+    <div id="main_navbar" class="use12">
+  <div id="main_nav_menu_column">
+    <ul class="dropdown">
+      <li><a class="" href="/watch">Films</a></li>
+      <li><a href="/notebook">Notebook</a></li>
+      <li><a href="/lists">Lists</a></li>
+      <li><a href="/festivals">Festivals</a></li>
+      <li><a href="/users">People</a></li>
+      <li><a href="/topics">Forum</a></li>
+    </ul>
+  </div>
+
+  <div id="main_nav_search_column">
+    <div id="main_search">
+      <form action="/search/results" id="cse-search-box">
+        <input type="hidden" name="cx" value="016360985607050269103:cmmod4epzpo" />
+        <input type="hidden" name="cof" value="FORID:10" />
+        <input type="hidden" name="ie" value="UTF-8" />
+
+        <span id="main_search_wrap">
+          <input type="text" autocomplete="off" id="main_search_box" name="q" />
+          <a class="button" href="#" onclick="$('cse-search-box').submit(); return false">search</a>
+        </span>
+      </form>
+    </div>
+  </div>
+</div>
+<!-- before removing display:none be sure to check IE7 as it was showing the border on this box by mistake -->
+<script type="text/javascript" charset="utf-8">
+  if ( $j.fn.autosuggest ) {
+    $j("#main_search_box").autosuggest({
+      source: "/services/films/search.json",
+      minLength: 2,
+      delay: 250,
+      select: function(event, ui) {
+        document.location = ui.item.url;
+      }
+    });
+  }
+</script>
+
+
+    
+<div id="list_index_view" class="use12 ">
+    <h4>Movie Lists</h4>
+
+
+  <div class="filter clear">
+    <form accept-charset="UTF-8" action="/lists" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+    <div class="filter_options">
+      <label>Sort By</label>
+      <select id="sort" name="sort" onchange="this.form.submit()"><option value="most_recent">Most recent</option>
+<option value="popularity" selected="selected">Popularity</option></select>
+    </div>
+</form>  </div>
+
+  <div class="content lists">
+    <div class="row"><div class="item" data-item-id="149">
+
+
+        <a href="/lists/contemplative-cinema-starter-pack" class="block" style="background: url(&#x27;http://s3.amazonaws.com/auteurs_production/images/film/at-sea/w448/at-sea.jpg&#x27;) no-repeat scroll center center;">
+          <div class="caption"><span class="title">Contemplative Cinema Starter Pack</span><br /><span class="owner">© &lt;&#x27;,))( Astro-Tofupraxographer</span></div>
+          <div class="overlay">630<br />fans</div>
+</a>
+</div><div class="item" data-item-id="612">
+
+
+        <a href="/lists/films-admired-by-tarkovsky" class="block" style="background: url(&#x27;http://s3.amazonaws.com/auteurs_production/images/film/diary-of-a-country-priest/w448/diary-of-a-country-priest.jpg&#x27;) no-repeat scroll center center;">
+          <div class="caption"><span class="title">FILMS ADMIRED BY TARKOVSKY</span><br /><span class="owner">Kenji</span></div>
+          <div class="overlay">599<br />fans</div>
+</a>
+</div><div class="item" data-item-id="6657">
+
+
+        <a href="/lists/hysterical-in-a-floral-dress" class="block" style="background: url(&#x27;http://s3.amazonaws.com/auteurs_production/images/film/valley-of-the-dolls/w448/valley-of-the-dolls.jpg?1339162766&#x27;) no-repeat scroll center center;">
+          <div class="caption"><span class="title">hysterical in a floral dress</span><br /><span class="owner">Jordany</span></div>
+          <div class="overlay">597<br />fans</div>
+</a>
+</div><div class="item last" data-item-id="5512">
+
+
+        <a href="/lists/101-directors-essential-films" class="block" style="background: url(&#x27;http://s3.amazonaws.com/auteurs_production/images/film/osaka-elegy/w448/osaka-elegy.jpg&#x27;) no-repeat scroll center center;">
+          <div class="caption"><span class="title">101 DIRECTORS&#x27; ESSENTIAL FILMS</span><br /><span class="owner">Kenji</span></div>
+          <div class="overlay">576<br />fans</div>
+</a>
+</div></div><div class="row"><div class="item" data-item-id="557">
+
+
+        <a href="/lists/colors-of-the-brush-the-cinematography-collection" class="block" style="background: url(&#x27;http://s3.amazonaws.com/auteurs_production/images/film/ballad-of-narayama--2/w448/ballad-of-narayama--2.jpg&#x27;) no-repeat scroll center center;">
+          <div class="caption"><span class="title">Colors of the Brush: The Cinematography Collection</span><br /><span class="owner">Joriah Goad</span></div>
+          <div class="overlay">558<br />fans</div>
+</a>
+</div><div class="item" data-item-id="115">
+
+
+        <a href="/lists/essential-french-films" class="block" style="background: url(&#x27;http://s3.amazonaws.com/auteurs_production/images/film/arrival-of-a-train/w448/arrival-of-a-train.jpg&#x27;) no-repeat scroll center center;">
+          <div class="caption"><span class="title">ESSENTIAL FRENCH FILMS </span><br /><span class="owner">Kenji</span></div>
+          <div class="overlay">420<br />fans</div>
+</a>
+</div><div class="item" data-item-id="122">
+
+
+        <a href="/lists/kenjis-japanese-canon" class="block" style="background: url(&#x27;http://s3.amazonaws.com/auteurs_production/images/film/souls-on-the-road/w448/souls-on-the-road.jpg?1291327733&#x27;) no-repeat scroll center center;">
+          <div class="caption"><span class="title">KENJI&#x27;S JAPANESE CANON</span><br /><span class="owner">Kenji</span></div>
+          <div class="overlay">403<br />fans</div>
+</a>
+</div><div class="item last" data-item-id="212">
+
+
+        <a href="/lists/fox-and-his-queer-friends" class="block" style="background: url(&#x27;http://s3.amazonaws.com/auteurs_production/images/film/fox-and-his-friends/w448/fox-and-his-friends.jpg&#x27;) no-repeat scroll center center;">
+          <div class="caption"><span class="title">Fox and His (Queer) Friends</span><br /><span class="owner">Joe Bowman</span></div>
+          <div class="overlay">400<br />fans</div>
+</a>
+</div></div><div class="row"><div class="item" data-item-id="5110">
+
+
+        <a href="/lists/films-directed-by-women" class="block" style="background: url(&#x27;http://s3.amazonaws.com/auteurs_production/images/film/fish-tank/w448/fish-tank.jpg?1339158057&#x27;) no-repeat scroll center center;">
+          <div class="caption"><span class="title">Films Directed By Women</span><br /><span class="owner">Ally the Manic Listmaker</span></div>
+          <div class="overlay">398<br />fans</div>
+</a>
+</div><div class="item" data-item-id="5574">
+
+
+        <a href="/lists/mental-illness" class="block" style="background: url(&#x27;http://s3.amazonaws.com/auteurs_production/images/film/ingeborg-holm/w448/ingeborg-holm.jpg&#x27;) no-repeat scroll center center;">
+          <div class="caption"><span class="title">MENTAL ILLNESS</span><br /><span class="owner">Kenji</span></div>
+          <div class="overlay">368<br />fans</div>
+</a>
+</div><div class="item" data-item-id="1514">
+
+
+        <a href="/lists/the-auteurs-50-best-films-of-the-decade" class="block" style="background: url(&#x27;http://s3.amazonaws.com/auteurs_production/images/film/eternal-sunshine-of-the-spotless-mind/w448/eternal-sunshine-of-the-spotless-mind.jpg&#x27;) no-repeat scroll center center;">
+          <div class="caption"><span class="title">The Auteurs 50 Best Films of the Decade</span><br /><span class="owner">MUBI</span></div>
+          <div class="overlay">364<br />fans</div>
+</a>
+</div><div class="item last" data-item-id="5875">
+
+
+        <a href="/lists/transcendent-moments-of-the-ecstatic-truth" class="block" style="background: url(&#x27;http://s3.amazonaws.com/auteurs_production/images/film/the-house-is-black/w448/the-house-is-black.jpg&#x27;) no-repeat scroll center center;">
+          <div class="caption"><span class="title">Transcendent Moments of the Ecstatic Truth</span><br /><span class="owner">Blue K, Custodian of the Cinema</span></div>
+          <div class="overlay">349<br />fans</div>
+</a>
+</div></div><div class="row lastrow"><div class="item" data-item-id="6075">
+
+
+        <a href="/lists/controversial-movie-club" class="block" style="background: url(&#x27;http://s3.amazonaws.com/auteurs_production/images/film/the-kiss/w448/the-kiss.jpg&#x27;) no-repeat scroll center center;">
+          <div class="caption"><span class="title">CONTROVERSIAL MOVIE CLUB</span><br /><span class="owner">jordaan mason</span></div>
+          <div class="overlay">341<br />fans</div>
+</a>
+</div><div class="item" data-item-id="3038">
+
+
+        <a href="/lists/minimalist-extremism-transcendental-humanism" class="block" style="background: url(&#x27;http://s3.amazonaws.com/auteurs_production/images/film/young-aphrodites/w448/young-aphrodites.jpg&#x27;) no-repeat scroll center center;">
+          <div class="caption"><span class="title">Minimalist Extremism + Transcendental Humanism</span><br /><span class="owner">NE1</span></div>
+          <div class="overlay">333<br />fans</div>
+</a>
+</div><div class="item" data-item-id="645">
+
+
+        <a href="/lists/movies-to-tripsmokedrink-to" class="block" style="background: url(&#x27;http://s3.amazonaws.com/auteurs_production/images/film/the-holy-mountain/w448/the-holy-mountain.jpg&#x27;) no-repeat scroll center center;">
+          <div class="caption"><span class="title">Movies to trip/smoke/drink to!</span><br /><span class="owner">Ryan Estabrooks</span></div>
+          <div class="overlay">330<br />fans</div>
+</a>
+</div><div class="item last" data-item-id="1917">
+
+
+        <a href="/lists/criterion-titles-available-on-netflix-watch-instantly" class="block" style="background: url(&#x27;http://s3.amazonaws.com/auteurs_production/images/film/harlan-county-usa/w448/harlan-county-usa.jpg&#x27;) no-repeat scroll center center;">
+          <div class="caption"><span class="title">Criterion Titles Available on Netflix &quot;Watch Instantly&quot;</span><br /><span class="owner">Jarrod</span></div>
+          <div class="overlay">321<br />fans</div>
+</a>
+</div></div>  </div>
+
+  <div class="pagination"><span class="previous_page disabled">« Previous</span> <em class="current">1</em> <a rel="next" href="/lists?page=2&amp;sort=popularity&amp;utf8=%E2%9C%93">2</a> <a href="/lists?page=3&amp;sort=popularity&amp;utf8=%E2%9C%93">3</a> <a href="/lists?page=4&amp;sort=popularity&amp;utf8=%E2%9C%93">4</a> <a href="/lists?page=5&amp;sort=popularity&amp;utf8=%E2%9C%93">5</a> <a href="/lists?page=6&amp;sort=popularity&amp;utf8=%E2%9C%93">6</a> <a href="/lists?page=7&amp;sort=popularity&amp;utf8=%E2%9C%93">7</a> <a href="/lists?page=8&amp;sort=popularity&amp;utf8=%E2%9C%93">8</a> <a href="/lists?page=9&amp;sort=popularity&amp;utf8=%E2%9C%93">9</a> <span class="gap">&hellip;</span> <a href="/lists?page=3179&amp;sort=popularity&amp;utf8=%E2%9C%93">3179</a> <a href="/lists?page=3180&amp;sort=popularity&amp;utf8=%E2%9C%93">3180</a> <a class="next_page" rel="next" href="/lists?page=2&amp;sort=popularity&amp;utf8=%E2%9C%93">Next »</a></div>
+
+  <a href="/lists/new" class="button loginrequired">Make a New List</a>
+</div>
+
+
+    <br class="clear" />
+  </div></div>
+
+<script type="text/javascript">
+  $j(document).ready( function() {
+    $j('.feedback').click( function() {
+      if(feedback_widget) {
+        feedback_widget.show();
+        return false;
+      }
+    });
+  });
+</script>
+
+<div id="footer" class="clear clearfix">
+  <ul>
+    <li><a href="/about">About MUBI</a>&nbsp;&nbsp;|&nbsp;</li>
+    <li><a href="/jobs">Jobs</a>&nbsp;&nbsp;|&nbsp;</li>
+    <li><a href="/press">Press</a>&nbsp;&nbsp;|&nbsp;</li>
+    <li><a href="/terms_of_service">Terms</a>&nbsp;&nbsp;|&nbsp;</li>
+    <li><a href="/privacy_policy">Privacy</a>&nbsp;&nbsp;|&nbsp;</li>
+    <li><a href="/faq" class="last">FAQ and Support</a></li>
+  </ul>
+
+  <div class="copyright">
+    <p>MUBI &copy;2008-2014</p>
+  </div> <!-- END COPYRIGHT -->
+
+</div> <!-- END FOOTER -->
+<div id="fb-root"></div>
+
+<script>
+  window.fbAsyncInit = function() {
+    TA.initializeFBConnect();
+  };
+  (function() {
+    var e = document.createElement('script'); e.async = true;
+    e.src = document.location.protocol +
+      '//connect.facebook.net/en_US/all.js';
+    document.getElementById('fb-root').appendChild(e);
+  }());
+</script>
+
+
+
+<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
+NREUMQ.push(["load",new Date().getTime()]);
+var e=document.createElement("script");
+e.type="text/javascript";
+e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" +
+  "js-agent.newrelic.com/nr-100.js";
+document.body.appendChild(e);
+if(NREUMQ.a)NREUMQ.a();
+};
+NREUMQ.a=window.onload;window.onload=NREUMQ.f;
+};
+NREUMQ.push(["nrfj","beacon-1.newrelic.com","67f96dada0","2205831","d1wMR0YNDVpdFhsPDUdHERxdDAVTQA==",37,567,new Date().getTime(),"","94234684b27c0b64","","",""]);</script></body>
+</html>
