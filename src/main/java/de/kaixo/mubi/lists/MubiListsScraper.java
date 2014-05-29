@@ -24,7 +24,7 @@ public class MubiListsScraper {
 
 	public static void main(String ars[]) throws XMLStreamException,
 			FactoryConfigurationError, IOException {
-		for (int page = 11; page <= 20; page++) {
+		for (int page = 1; page <= 10; page++) {
 			System.out.println("Fetching page " + page);
 			URL url = new URL(MUBI_LISTS_BASE_URL + "&page=" + page);
 			List<MubiListRef> lists = MubiListsReader.getInstance()
@@ -37,7 +37,9 @@ public class MubiListsScraper {
 				list.addFilms(filmList);
 			}
 
-			mapper.writeValue(new File("output", "mubi-lists-page-" + page + ".json"),
+			File outfile = new File("output", "mubi-lists-page-" + String.format("%04d", page) + ".json");
+			System.out.println("Writing "+ outfile.getName());
+			mapper.writeValue(outfile,
 					lists);
 		}
 	}

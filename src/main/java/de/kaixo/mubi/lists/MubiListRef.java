@@ -6,12 +6,12 @@ import java.util.List;
 public class MubiListRef {
 	private final String title;
 	private final String url;
-	private final String id;
+	private final int id;
 	private final String owner;
 	private final int numFans;
 	private final List<MubiFilmRef> films = new ArrayList<>();
 
-	public MubiListRef(String title, String url, String id, String owner,
+	public MubiListRef(String title, String url, int id, String owner,
 			int numFans) {
 		this.title = title;
 		this.url = url;
@@ -20,7 +20,7 @@ public class MubiListRef {
 		this.numFans = numFans;
 	}
 
-	public String getId() {
+	public int getId() {
 		return id;
 	}
 

@@ -3,21 +3,23 @@ package de.kaixo.mubi.lists;
 public class MubiFilmRef {
 	private String title;
 	private String director;
-	private String id;
+	private int id;
 	private String url;
+	private int position;
 
-	public MubiFilmRef(String title, String director, String id, String url) {
+	public MubiFilmRef(String title, String director, int id, String url, int position) {
 		this.title = title;
 		this.director = director;
 		this.id = id;
 		this.url = url;
+		this.position = position;
 	}
 
 	public String getDirector() {
 		return director;
 	}
 
-	public String getId() {
+	public int getId() {
 		return id;
 	}
 
@@ -29,6 +31,10 @@ public class MubiFilmRef {
 		return url;
 	}
 
+	public int getPosition() {
+		return position;
+	}
+	
 	@Override
 	public String toString() {
 		StringBuilder builder = new StringBuilder();
@@ -40,6 +46,8 @@ public class MubiFilmRef {
 		builder.append(id);
 		builder.append(", url=");
 		builder.append(url);
+		builder.append(", position=");
+		builder.append(position);
 		builder.append("]");
 		return builder.toString();
 	}

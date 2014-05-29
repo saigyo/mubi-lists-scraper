@@ -55,7 +55,7 @@ public enum MubiListsReader {
 			throws XMLStreamException, FactoryConfigurationError, IOException {
 		return readMubiFilmList(url.openStream());
 	}
-	
+
 	public List<MubiFilmRef> readMubiFilmList(InputStream is)
 			throws XMLStreamException, FactoryConfigurationError, IOException {
 		List<MubiFilmRef> result = new ArrayList<>();
@@ -100,11 +100,12 @@ public enum MubiListsReader {
 
 	private MubiFilmRef readFilmRef(XMLStreamReader reader)
 			throws XMLStreamException {
-		String id = reader.getAttributeValue("", "id")
-				.replaceFirst("film_", "");
+		int id = Integer.parseInt(reader.getAttributeValue("", "id")
+				.replaceFirst("film_", ""));
 		String url = "";
 		String title = "";
 		String director = "";
+		int position = 0;
 		while (reader.hasNext()) {
 			int event = reader.next();
 			if (event == XMLEvent.START_ELEMENT
@@ -115,17 +116,21 @@ public enum MubiListsReader {
 					&& "div".equals(reader.getLocalName())
 					&& "director".equals(reader.getAttributeValue("", "class"))) {
 				director = reader.getElementText();
+			} else if (event == XMLEvent.START_ELEMENT
+					&& "div".equals(reader.getLocalName())
+					&& "position".equals(reader.getAttributeValue("", "class"))) {
+				position = Integer.parseInt(reader.getElementText());
 			} else if (event == XMLEvent.END_ELEMENT
 					&& "li".equals(reader.getLocalName())) {
 				break;
 			}
 		}
-		return new MubiFilmRef(title, director, id, url);
+		return new MubiFilmRef(title, director, id, url, position);
 	}
 
 	private MubiListRef readListRef(XMLStreamReader reader)
 			throws XMLStreamException {
-		String id = reader.getAttributeValue("", "data-item-id");
+		int id = Integer.parseInt(reader.getAttributeValue("", "data-item-id"));
 		String title = "";
 		String url = "";
 		String owner = "";

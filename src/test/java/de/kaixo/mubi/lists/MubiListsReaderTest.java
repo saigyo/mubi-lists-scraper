@@ -6,6 +6,7 @@ import java.io.InputStream;
 import java.net.URL;
 import java.util.List;
 
+import org.junit.Ignore;
 import org.junit.Test;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -26,6 +27,7 @@ public class MubiListsReaderTest {
 		mapper.writeValue(System.out, readMubiLists);
 	}
 
+	@Ignore
 	@Test
 	public void testReadMubiListFromUrl() throws Exception {
 		URL url = new URL(
