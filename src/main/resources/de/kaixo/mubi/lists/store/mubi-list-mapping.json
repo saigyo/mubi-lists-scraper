@@ -1,0 +1,91 @@
+{
+	"list": {
+	    "_id" : {
+	        "type": "integer",
+	    	"index": "not_analyzed", 
+	    	"store" : false,
+	    	"path" : "id"
+	    },
+		"properties": {
+			"title": {
+				"type": "string",
+				"index": "analyzed",
+				"store": true,
+				"fields": {
+					"raw": {
+						"type": "string",
+						"index": "not_analyzed"
+					}				
+				}
+			},
+			"url": {
+				"type": "string",
+				"store": true,
+				"index": "not_analyzed"
+			},
+			"id": {
+				"type": "integer",
+				"store": true
+			},
+			"owner": {
+				"type":	"string",
+				"store": true,
+				"index": "not_analyzed"
+			},
+			"numFans": {
+				"type": "integer",
+				"store": true
+			},
+			"films": {
+				"type": "nested",
+				"properties": {
+					"title": {
+						"type": "string",
+						"index": "analyzed",
+						"store": true,
+						"fields": {
+							"raw": {
+								"type": "string",
+								"index": "not_analyzed"
+							},
+							"suggest" : {
+								"type": "string",
+								"index_analyzer": "autocomplete",
+								"search_analyzer": "simple"
+							}
+						}
+					},
+					"director": {
+						"type": "string",
+						"index": "analyzed",
+						"store": true,
+						"fields": {
+							"raw": {
+								"type": "string",
+								"index": "not_analyzed"
+							},
+							"suggest" : {
+								"type": "string",
+								"index_analyzer": "autocomplete",
+								"search_analyzer": "simple"
+							}
+						}
+					},
+					"id": {
+						"type": "integer",
+						"store": true
+					},
+					"url": {
+						"type": "string",
+						"index": "not_analyzed",
+						"store": true
+					},
+					"position": {
+						"type": "integer",
+						"store": true
+					}
+				}
+			}
+		}
+	}
+}
