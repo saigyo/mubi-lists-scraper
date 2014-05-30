@@ -1,0 +1,628 @@
+[{
+	"id": 39832352,
+	"list_id": 612,
+	"film_id": 452,
+	"position": 1,
+	"film": {
+		"id": 452,
+		"title": "Tagebuch eines Landpfarrers ",
+		"programmed": false,
+		"stills": {
+			"large": "http://s3.amazonaws.com/auteurs_production/images/film/diary-of-a-country-priest/w1280/diary-of-a-country-priest.jpg",
+			"medium": "http://s3.amazonaws.com/auteurs_production/images/film/diary-of-a-country-priest/w384/diary-of-a-country-priest.jpg",
+			"small": "http://s3.amazonaws.com/auteurs_production/images/film/diary-of-a-country-priest/w128/diary-of-a-country-priest.jpg"
+		},
+		"canonical_url": "https://mubi.com/films/diary-of-a-country-priest",
+		"year": 1951,
+		"directors": "Robert Bresson",
+		"popularity": 634
+	}
+}, {
+	"id": 39832353,
+	"list_id": 612,
+	"film_id": 569,
+	"position": 2,
+	"film": {
+		"id": 569,
+		"title": "Licht im Winter",
+		"programmed": false,
+		"stills": {
+			"large": "http://s3.amazonaws.com/auteurs_production/images/film/winter-light/w1280/winter-light.jpg",
+			"medium": "http://s3.amazonaws.com/auteurs_production/images/film/winter-light/w384/winter-light.jpg",
+			"small": "http://s3.amazonaws.com/auteurs_production/images/film/winter-light/w128/winter-light.jpg"
+		},
+		"canonical_url": "https://mubi.com/films/winter-light",
+		"year": 1962,
+		"directors": "Ingmar Bergman",
+		"popularity": 1200
+	}
+}, {
+	"id": 39832354,
+	"list_id": 612,
+	"film_id": 3777,
+	"position": 3,
+	"film": {
+		"id": 3777,
+		"title": "Nazar\u00edn",
+		"programmed": false,
+		"stills": {
+			"large": "http://s3.amazonaws.com/auteurs_production/images/film/nazarin/w1280/nazarin.jpg",
+			"medium": "http://s3.amazonaws.com/auteurs_production/images/film/nazarin/w384/nazarin.jpg",
+			"small": "http://s3.amazonaws.com/auteurs_production/images/film/nazarin/w128/nazarin.jpg"
+		},
+		"canonical_url": "https://mubi.com/films/nazarin",
+		"year": 1959,
+		"directors": "Luis Bu\u00f1uel",
+		"popularity": 118
+	}
+}, {
+	"id": 39832355,
+	"list_id": 612,
+	"film_id": 175,
+	"position": 4,
+	"film": {
+		"id": 175,
+		"title": "Wilde Erdbeeren",
+		"programmed": false,
+		"stills": {
+			"large": "http://s3.amazonaws.com/auteurs_production/images/film/wild-strawberries/w1280/wild-strawberries.jpg",
+			"medium": "http://s3.amazonaws.com/auteurs_production/images/film/wild-strawberries/w384/wild-strawberries.jpg",
+			"small": "http://s3.amazonaws.com/auteurs_production/images/film/wild-strawberries/w128/wild-strawberries.jpg"
+		},
+		"canonical_url": "https://mubi.com/films/wild-strawberries",
+		"year": 1957,
+		"directors": "Ingmar Bergman",
+		"popularity": 3656
+	}
+}, {
+	"id": 39832356,
+	"list_id": 612,
+	"film_id": 894,
+	"position": 5,
+	"film": {
+		"id": 894,
+		"title": "Lichter der Gro\u00dfstadt",
+		"programmed": false,
+		"stills": {
+			"large": "http://s3.amazonaws.com/auteurs_production/images/film/city-lights/w1280/city-lights.jpg",
+			"medium": "http://s3.amazonaws.com/auteurs_production/images/film/city-lights/w384/city-lights.jpg",
+			"small": "http://s3.amazonaws.com/auteurs_production/images/film/city-lights/w128/city-lights.jpg"
+		},
+		"canonical_url": "https://mubi.com/films/city-lights",
+		"year": 1931,
+		"directors": "Charlie Chaplin",
+		"popularity": 3455
+	}
+}, {
+	"id": 39832357,
+	"list_id": 612,
+	"film_id": 369,
+	"position": 6,
+	"film": {
+		"id": 369,
+		"title": "Ugetsu - Erz\u00e4hlungen unter dem Regenmond",
+		"programmed": false,
+		"stills": {
+			"large": "http://s3.amazonaws.com/auteurs_production/images/film/ugetsu/w1280/ugetsu.jpg",
+			"medium": "http://s3.amazonaws.com/auteurs_production/images/film/ugetsu/w384/ugetsu.jpg",
+			"small": "http://s3.amazonaws.com/auteurs_production/images/film/ugetsu/w128/ugetsu.jpg"
+		},
+		"canonical_url": "https://mubi.com/films/ugetsu",
+		"year": 1953,
+		"directors": "Kenji Mizoguchi",
+		"popularity": 1344
+	}
+}, {
+	"id": 39832358,
+	"list_id": 612,
+	"film_id": 165,
+	"position": 7,
+	"film": {
+		"id": 165,
+		"title": "Die sieben Samurai",
+		"programmed": false,
+		"stills": {
+			"large": "http://s3.amazonaws.com/auteurs_production/images/film/seven-samurai/w1280/seven-samurai.jpg",
+			"medium": "http://s3.amazonaws.com/auteurs_production/images/film/seven-samurai/w384/seven-samurai.jpg",
+			"small": "http://s3.amazonaws.com/auteurs_production/images/film/seven-samurai/w128/seven-samurai.jpg"
+		},
+		"canonical_url": "https://mubi.com/films/seven-samurai",
+		"year": 1954,
+		"directors": "Akira Kurosawa",
+		"popularity": 6803
+	}
+}, {
+	"id": 39832359,
+	"list_id": 612,
+	"film_id": 299,
+	"position": 8,
+	"film": {
+		"id": 299,
+		"title": "Persona",
+		"programmed": false,
+		"stills": {
+			"large": "http://s3.amazonaws.com/auteurs_production/images/film/persona/w1280/persona.jpg",
+			"medium": "http://s3.amazonaws.com/auteurs_production/images/film/persona/w384/persona.jpg",
+			"small": "http://s3.amazonaws.com/auteurs_production/images/film/persona/w128/persona.jpg"
+		},
+		"canonical_url": "https://mubi.com/films/persona",
+		"year": 1966,
+		"directors": "Ingmar Bergman",
+		"popularity": 4971
+	}
+}, {
+	"id": 39832360,
+	"list_id": 612,
+	"film_id": 456,
+	"position": 9,
+	"film": {
+		"id": 456,
+		"title": "Mouchette",
+		"programmed": false,
+		"stills": {
+			"large": "http://s3.amazonaws.com/auteurs_production/images/film/mouchette/w1280/mouchette.jpg",
+			"medium": "http://s3.amazonaws.com/auteurs_production/images/film/mouchette/w384/mouchette.jpg",
+			"small": "http://s3.amazonaws.com/auteurs_production/images/film/mouchette/w128/mouchette.jpg"
+		},
+		"canonical_url": "https://mubi.com/films/mouchette",
+		"year": 1967,
+		"directors": "Robert Bresson",
+		"popularity": 727
+	}
+}, {
+	"id": 39832361,
+	"list_id": 612,
+	"film_id": 826,
+	"position": 10,
+	"film": {
+		"id": 826,
+		"title": "Die Frau in den D\u00fcnen",
+		"programmed": false,
+		"stills": {
+			"large": "http://s3.amazonaws.com/auteurs_production/images/film/woman-in-the-dunes/w1280/woman-in-the-dunes.jpg",
+			"medium": "http://s3.amazonaws.com/auteurs_production/images/film/woman-in-the-dunes/w384/woman-in-the-dunes.jpg",
+			"small": "http://s3.amazonaws.com/auteurs_production/images/film/woman-in-the-dunes/w128/woman-in-the-dunes.jpg"
+		},
+		"canonical_url": "https://mubi.com/films/woman-in-the-dunes",
+		"year": 1964,
+		"directors": "Hiroshi Teshigahara",
+		"popularity": 1159
+	}
+}, {
+	"id": 39832362,
+	"list_id": 612,
+	"film_id": 2252,
+	"position": 11,
+	"film": {
+		"id": 2252,
+		"title": "Erde",
+		"programmed": false,
+		"stills": {
+			"large": "http://s3.amazonaws.com/auteurs_production/images/film/earth--6/w1280/earth--6.jpg",
+			"medium": "http://s3.amazonaws.com/auteurs_production/images/film/earth--6/w384/earth--6.jpg",
+			"small": "http://s3.amazonaws.com/auteurs_production/images/film/earth--6/w128/earth--6.jpg"
+		},
+		"canonical_url": "https://mubi.com/films/earth--6",
+		"year": 1930,
+		"directors": "Aleksandr Dovzhenko",
+		"popularity": 175
+	}
+}, {
+	"id": 39832363,
+	"list_id": 612,
+	"film_id": 150,
+	"position": 12,
+	"film": {
+		"id": 150,
+		"title": "Achteinhalb",
+		"programmed": false,
+		"stills": {
+			"large": "http://s3.amazonaws.com/auteurs_production/images/film/-8/w1280/-8.jpg",
+			"medium": "http://s3.amazonaws.com/auteurs_production/images/film/-8/w384/-8.jpg",
+			"small": "http://s3.amazonaws.com/auteurs_production/images/film/-8/w128/-8.jpg"
+		},
+		"canonical_url": "https://mubi.com/films/-8",
+		"year": 1963,
+		"directors": "Federico Fellini",
+		"popularity": 6147
+	}
+}, {
+	"id": 39832364,
+	"list_id": 612,
+	"film_id": 342,
+	"position": 13,
+	"film": {
+		"id": 342,
+		"title": "Asche und Diamant",
+		"programmed": false,
+		"stills": {
+			"large": "http://s3.amazonaws.com/auteurs_production/images/film/ashes-and-diamonds/w1280/ashes-and-diamonds.jpg",
+			"medium": "http://s3.amazonaws.com/auteurs_production/images/film/ashes-and-diamonds/w384/ashes-and-diamonds.jpg",
+			"small": "http://s3.amazonaws.com/auteurs_production/images/film/ashes-and-diamonds/w128/ashes-and-diamonds.jpg"
+		},
+		"canonical_url": "https://mubi.com/films/ashes-and-diamonds",
+		"year": 1958,
+		"directors": "Andrzej Wajda",
+		"popularity": 276
+	}
+}, {
+	"id": 39832365,
+	"list_id": 612,
+	"film_id": 2457,
+	"position": 14,
+	"film": {
+		"id": 2457,
+		"title": "Feuerpferde",
+		"programmed": false,
+		"stills": {
+			"large": "http://s3.amazonaws.com/auteurs_production/images/film/shadows-of-forgotten-ancestors/w1280/shadows-of-forgotten-ancestors.jpg",
+			"medium": "http://s3.amazonaws.com/auteurs_production/images/film/shadows-of-forgotten-ancestors/w384/shadows-of-forgotten-ancestors.jpg",
+			"small": "http://s3.amazonaws.com/auteurs_production/images/film/shadows-of-forgotten-ancestors/w128/shadows-of-forgotten-ancestors.jpg"
+		},
+		"canonical_url": "https://mubi.com/films/shadows-of-forgotten-ancestors",
+		"year": 1964,
+		"directors": "Sergei Parajanov",
+		"popularity": 489
+	}
+}, {
+	"id": 39832366,
+	"list_id": 612,
+	"film_id": 438,
+	"position": 15,
+	"film": {
+		"id": 438,
+		"title": "Atalante",
+		"programmed": false,
+		"stills": {
+			"large": "http://s3.amazonaws.com/auteurs_production/images/film/latalante/w1280/latalante.jpg",
+			"medium": "http://s3.amazonaws.com/auteurs_production/images/film/latalante/w384/latalante.jpg",
+			"small": "http://s3.amazonaws.com/auteurs_production/images/film/latalante/w128/latalante.jpg"
+		},
+		"canonical_url": "https://mubi.com/films/latalante",
+		"year": 1934,
+		"directors": "Jean Vigo",
+		"popularity": 929
+	}
+}, {
+	"id": 39832367,
+	"list_id": 612,
+	"film_id": 228,
+	"position": 16,
+	"film": {
+		"id": 228,
+		"title": "Die Passion der Jungfrau von Orl\u00e9ans",
+		"programmed": false,
+		"stills": {
+			"large": "http://s3.amazonaws.com/auteurs_production/images/film/the-passion-of-joan-of-arc/w1280/the-passion-of-joan-of-arc.jpg",
+			"medium": "http://s3.amazonaws.com/auteurs_production/images/film/the-passion-of-joan-of-arc/w384/the-passion-of-joan-of-arc.jpg",
+			"small": "http://s3.amazonaws.com/auteurs_production/images/film/the-passion-of-joan-of-arc/w128/the-passion-of-joan-of-arc.jpg"
+		},
+		"canonical_url": "https://mubi.com/films/the-passion-of-joan-of-arc",
+		"year": 1928,
+		"directors": "Carl Theodor Dreyer",
+		"popularity": 3188
+	}
+}, {
+	"id": 39832368,
+	"list_id": 612,
+	"film_id": 20897,
+	"position": 17,
+	"film": {
+		"id": 20897,
+		"title": "Es war einmal eine Singdrossel",
+		"programmed": false,
+		"stills": {
+			"large": "http://s3.amazonaws.com/auteurs_production/images/film/once-upon-a-time-there-was-a-singing-blackbird/w1280/once-upon-a-time-there-was-a-singing-blackbird.jpg",
+			"medium": "http://s3.amazonaws.com/auteurs_production/images/film/once-upon-a-time-there-was-a-singing-blackbird/w384/once-upon-a-time-there-was-a-singing-blackbird.jpg",
+			"small": "http://s3.amazonaws.com/auteurs_production/images/film/once-upon-a-time-there-was-a-singing-blackbird/w128/once-upon-a-time-there-was-a-singing-blackbird.jpg"
+		},
+		"canonical_url": "https://mubi.com/films/once-upon-a-time-there-was-a-singing-blackbird",
+		"year": 1970,
+		"directors": "Otar Iosseliani",
+		"popularity": 70
+	}
+}, {
+	"id": 39832369,
+	"list_id": 612,
+	"film_id": 3555,
+	"position": 18,
+	"film": {
+		"id": 3555,
+		"title": "Schande",
+		"programmed": false,
+		"stills": {
+			"large": "http://s3.amazonaws.com/auteurs_production/images/film/shame/w1280/shame.jpg",
+			"medium": "http://s3.amazonaws.com/auteurs_production/images/film/shame/w384/shame.jpg",
+			"small": "http://s3.amazonaws.com/auteurs_production/images/film/shame/w128/shame.jpg"
+		},
+		"canonical_url": "https://mubi.com/films/shame",
+		"year": 1968,
+		"directors": "Ingmar Bergman",
+		"popularity": 335
+	}
+}, {
+	"id": 39832370,
+	"list_id": 612,
+	"film_id": 209,
+	"position": 19,
+	"film": {
+		"id": 209,
+		"title": "Die mit der Liebe spielen",
+		"programmed": false,
+		"stills": {
+			"large": "http://s3.amazonaws.com/auteurs_production/images/film/lavventura/w1280/lavventura.jpg?1340615878",
+			"medium": "http://s3.amazonaws.com/auteurs_production/images/film/lavventura/w384/lavventura.jpg?1340615878",
+			"small": "http://s3.amazonaws.com/auteurs_production/images/film/lavventura/w128/lavventura.jpg?1340615878"
+		},
+		"canonical_url": "https://mubi.com/films/lavventura",
+		"year": 1960,
+		"directors": "Michelangelo Antonioni",
+		"popularity": 2239
+	}
+}, {
+	"id": 39832371,
+	"list_id": 612,
+	"film_id": 936,
+	"position": 20,
+	"film": {
+		"id": 936,
+		"title": "Die Nacht",
+		"programmed": false,
+		"stills": {
+			"large": "http://s3.amazonaws.com/auteurs_production/images/film/la-notte/w1280/la-notte.jpg",
+			"medium": "http://s3.amazonaws.com/auteurs_production/images/film/la-notte/w384/la-notte.jpg",
+			"small": "http://s3.amazonaws.com/auteurs_production/images/film/la-notte/w128/la-notte.jpg"
+		},
+		"canonical_url": "https://mubi.com/films/la-notte",
+		"year": 1961,
+		"directors": "Michelangelo Antonioni",
+		"popularity": 1015
+	}
+}, {
+	"id": 39832372,
+	"list_id": 612,
+	"film_id": 928,
+	"position": 21,
+	"film": {
+		"id": 928,
+		"title": "Liebe 1962",
+		"programmed": false,
+		"stills": {
+			"large": "http://s3.amazonaws.com/auteurs_production/images/film/leclisse/w1280/leclisse.png?1338431555",
+			"medium": "http://s3.amazonaws.com/auteurs_production/images/film/leclisse/w384/leclisse.png?1338431555",
+			"small": "http://s3.amazonaws.com/auteurs_production/images/film/leclisse/w128/leclisse.png?1338431555"
+		},
+		"canonical_url": "https://mubi.com/films/leclisse",
+		"year": 1962,
+		"directors": "Michelangelo Antonioni",
+		"popularity": 1388
+	}
+}, {
+	"id": 39832373,
+	"list_id": 612,
+	"film_id": 285,
+	"position": 22,
+	"film": {
+		"id": 285,
+		"title": "Citizen Kane",
+		"programmed": false,
+		"stills": {
+			"large": "http://s3.amazonaws.com/auteurs_production/images/film/citizen-kane/w1280/citizen-kane.jpg",
+			"medium": "http://s3.amazonaws.com/auteurs_production/images/film/citizen-kane/w384/citizen-kane.jpg",
+			"small": "http://s3.amazonaws.com/auteurs_production/images/film/citizen-kane/w128/citizen-kane.jpg"
+		},
+		"canonical_url": "https://mubi.com/films/citizen-kane",
+		"year": 1941,
+		"directors": "Orson Welles",
+		"popularity": 8142
+	}
+}, {
+	"id": 39832374,
+	"list_id": 612,
+	"film_id": 1505,
+	"position": 23,
+	"film": {
+		"id": 1505,
+		"title": "Die Farbe des Granatapfels",
+		"programmed": false,
+		"stills": {
+			"large": "http://s3.amazonaws.com/auteurs_production/images/film/the-color-of-pomegranates/w1280/the-color-of-pomegranates.jpg",
+			"medium": "http://s3.amazonaws.com/auteurs_production/images/film/the-color-of-pomegranates/w384/the-color-of-pomegranates.jpg",
+			"small": "http://s3.amazonaws.com/auteurs_production/images/film/the-color-of-pomegranates/w128/the-color-of-pomegranates.jpg"
+		},
+		"canonical_url": "https://mubi.com/films/the-color-of-pomegranates",
+		"year": 1968,
+		"directors": "Sergei Parajanov",
+		"popularity": 746
+	}
+}, {
+	"id": 39832375,
+	"list_id": 612,
+	"film_id": 568,
+	"position": 24,
+	"film": {
+		"id": 568,
+		"title": "Wie in einem Spiegel",
+		"programmed": false,
+		"stills": {
+			"large": "http://s3.amazonaws.com/auteurs_production/images/film/through-a-glass-darkly/w1280/through-a-glass-darkly.jpg?1339418136",
+			"medium": "http://s3.amazonaws.com/auteurs_production/images/film/through-a-glass-darkly/w384/through-a-glass-darkly.jpg?1339418136",
+			"small": "http://s3.amazonaws.com/auteurs_production/images/film/through-a-glass-darkly/w128/through-a-glass-darkly.jpg?1339418136"
+		},
+		"canonical_url": "https://mubi.com/films/through-a-glass-darkly",
+		"year": 1961,
+		"directors": "Ingmar Bergman",
+		"popularity": 1144
+	}
+}, {
+	"id": 39832376,
+	"list_id": 612,
+	"film_id": 294,
+	"position": 25,
+	"film": {
+		"id": 294,
+		"title": "Ein Andalusischer Hund",
+		"programmed": true,
+		"stills": {
+			"large": "http://s3.amazonaws.com/auteurs_production/images/film/un-chien-andalou/w1280/un-chien-andalou.jpg",
+			"medium": "http://s3.amazonaws.com/auteurs_production/images/film/un-chien-andalou/w384/un-chien-andalou.jpg",
+			"small": "http://s3.amazonaws.com/auteurs_production/images/film/un-chien-andalou/w128/un-chien-andalou.jpg"
+		},
+		"canonical_url": "https://mubi.com/films/un-chien-andalou",
+		"year": 1929,
+		"directors": "Luis Bu\u00f1uel",
+		"popularity": 3083
+	}
+}, {
+	"id": 39832377,
+	"list_id": 612,
+	"film_id": 870,
+	"position": 26,
+	"film": {
+		"id": 870,
+		"title": "The Lower Depths",
+		"programmed": false,
+		"stills": {
+			"large": "http://s3.amazonaws.com/auteurs_production/images/film/the-lower-depths--2/w1280/the-lower-depths--2.jpg",
+			"medium": "http://s3.amazonaws.com/auteurs_production/images/film/the-lower-depths--2/w384/the-lower-depths--2.jpg",
+			"small": "http://s3.amazonaws.com/auteurs_production/images/film/the-lower-depths--2/w128/the-lower-depths--2.jpg"
+		},
+		"canonical_url": "https://mubi.com/films/the-lower-depths--2",
+		"year": 1936,
+		"directors": "Jean Renoir",
+		"popularity": 43
+	}
+}, {
+	"id": 39832378,
+	"list_id": 612,
+	"film_id": 441,
+	"position": 27,
+	"film": {
+		"id": 441,
+		"title": "Das Wort",
+		"programmed": false,
+		"stills": {
+			"large": "http://s3.amazonaws.com/auteurs_production/images/film/the-word/w1280/the-word.jpg?1332602708",
+			"medium": "http://s3.amazonaws.com/auteurs_production/images/film/the-word/w384/the-word.jpg?1332602708",
+			"small": "http://s3.amazonaws.com/auteurs_production/images/film/the-word/w128/the-word.jpg?1332602708"
+		},
+		"canonical_url": "https://mubi.com/films/ordet",
+		"year": 1955,
+		"directors": "Carl Theodor Dreyer",
+		"popularity": 986
+	}
+}, {
+	"id": 39832379,
+	"list_id": 612,
+	"film_id": 237,
+	"position": 28,
+	"film": {
+		"id": 237,
+		"title": "Schreie und Fl\u00fcstern",
+		"programmed": false,
+		"stills": {
+			"large": "http://s3.amazonaws.com/auteurs_production/images/film/cries-and-whispers/w1280/cries-and-whispers.png?1338432201",
+			"medium": "http://s3.amazonaws.com/auteurs_production/images/film/cries-and-whispers/w384/cries-and-whispers.png?1338432201",
+			"small": "http://s3.amazonaws.com/auteurs_production/images/film/cries-and-whispers/w128/cries-and-whispers.png?1338432201"
+		},
+		"canonical_url": "https://mubi.com/films/cries-and-whispers",
+		"year": 1972,
+		"directors": "Ingmar Bergman",
+		"popularity": 1758
+	}
+}, {
+	"id": 39832380,
+	"list_id": 612,
+	"film_id": 23632,
+	"position": 29,
+	"film": {
+		"id": 23632,
+		"title": "Die Weinernte",
+		"programmed": false,
+		"stills": {
+			"large": "http://s3.amazonaws.com/auteurs_production/images/film/falling-leaves/w1280/falling-leaves.jpg",
+			"medium": "http://s3.amazonaws.com/auteurs_production/images/film/falling-leaves/w384/falling-leaves.jpg",
+			"small": "http://s3.amazonaws.com/auteurs_production/images/film/falling-leaves/w128/falling-leaves.jpg"
+		},
+		"canonical_url": "https://mubi.com/films/falling-leaves",
+		"year": 1966,
+		"directors": "Otar Iosseliani",
+		"popularity": 20
+	}
+}, {
+	"id": 39832381,
+	"list_id": 612,
+	"film_id": 22724,
+	"position": 30,
+	"film": {
+		"id": 22724,
+		"title": "Am Rande des Blauen Meeres",
+		"programmed": false,
+		"stills": {
+			"large": "http://s3.amazonaws.com/auteurs_production/images/film/by-the-bluest-of-seas/w1280/by-the-bluest-of-seas.jpg",
+			"medium": "http://s3.amazonaws.com/auteurs_production/images/film/by-the-bluest-of-seas/w384/by-the-bluest-of-seas.jpg",
+			"small": "http://s3.amazonaws.com/auteurs_production/images/film/by-the-bluest-of-seas/w128/by-the-bluest-of-seas.jpg"
+		},
+		"canonical_url": "https://mubi.com/films/by-the-bluest-of-seas",
+		"year": 1936,
+		"directors": "Boris Barnet, S. Mardanin",
+		"popularity": 31
+	}
+}, {
+	"id": 39832382,
+	"list_id": 612,
+	"film_id": 372,
+	"position": 31,
+	"film": {
+		"id": 372,
+		"title": "Die Jungfrauenquelle",
+		"programmed": false,
+		"stills": {
+			"large": "http://s3.amazonaws.com/auteurs_production/images/film/the-virgin-spring/w1280/the-virgin-spring.jpg",
+			"medium": "http://s3.amazonaws.com/auteurs_production/images/film/the-virgin-spring/w384/the-virgin-spring.jpg",
+			"small": "http://s3.amazonaws.com/auteurs_production/images/film/the-virgin-spring/w128/the-virgin-spring.jpg"
+		},
+		"canonical_url": "https://mubi.com/films/the-virgin-spring",
+		"year": 1960,
+		"directors": "Ingmar Bergman",
+		"popularity": 1094
+	}
+}, {
+	"id": 39832383,
+	"list_id": 612,
+	"film_id": 39149,
+	"position": 32,
+	"film": {
+		"id": 39149,
+		"title": "Zoya",
+		"programmed": false,
+		"stills": {
+			"large": "http://s3.amazonaws.com/auteurs_production/images/film/zoya/w1280/zoya.jpg?1296436505",
+			"medium": "http://s3.amazonaws.com/auteurs_production/images/film/zoya/w384/zoya.jpg?1296436505",
+			"small": "http://s3.amazonaws.com/auteurs_production/images/film/zoya/w128/zoya.jpg?1296436505"
+		},
+		"canonical_url": "https://mubi.com/films/zoya",
+		"year": 1944,
+		"directors": "Lev Arnshtam",
+		"popularity": 0
+	}
+}, {
+	"id": 39832384,
+	"list_id": 612,
+	"film_id": 27438,
+	"position": 33,
+	"film": {
+		"id": 27438,
+		"title": "Pastorale",
+		"programmed": false,
+		"stills": {
+			"large": "http://s3.amazonaws.com/auteurs_production/images/film/pastorale/w1280/pastorale.jpg",
+			"medium": "http://s3.amazonaws.com/auteurs_production/images/film/pastorale/w384/pastorale.jpg",
+			"small": "http://s3.amazonaws.com/auteurs_production/images/film/pastorale/w128/pastorale.jpg"
+		},
+		"canonical_url": "https://mubi.com/films/pastorale",
+		"year": 1975,
+		"directors": "Otar Iosseliani",
+		"popularity": 10
+	}
+}]
