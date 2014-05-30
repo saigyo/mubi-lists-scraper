@@ -1,0 +1,122 @@
+POST /mubi/list/_search
+{
+  "query": {
+    "match_all": {}
+  }, 
+  "aggs": {
+    "lists": {
+        "filter": {
+          "nested": {
+            "path": "films",
+            "query": {
+              "filtered": {
+                "query": {
+                  "match_all": {}
+                },
+                "filter": {
+                  "terms": {
+                    "films.director": [
+                      "antonioni",
+                      "tarr"
+                    ]
+                  }
+                }
+              }
+            }
+          } 
+        }, 
+        "aggs": {
+          "films": {
+            "nested": {
+              "path": "films"
+            },
+            "aggs": {
+              "significantFilmTitles": {
+                "significant_terms": {
+                    "field":"films.title.raw"
+                }
+              }
+            }
+          },
+          "directors": {
+            "nested": {
+              "path": "films"
+            },
+            "aggs": {
+              "significantDirectors": {
+                "significant_terms": {
+                   "field":"films.director.raw"
+                }
+              }
+            }
+          }
+        }
+    }
+  }, 
+  "size": 0
+}
+
+POST /mubi/list/_search
+{
+  "query": {
+    "match_all": {}
+  }, 
+  "aggs": {
+    "lists": {
+        "filter": {
+          "nested": {
+            "path": "films",
+            "query": {
+              "filtered": {
+                "query": {
+                  "match_all": {}
+                },
+                "filter": {
+                  "terms": {
+                    "films.title.raw": [
+                      "Wilde Erdbeeren",
+                      "Achteinhalb",
+                      "Stalker"
+                    ]
+                  }
+                }
+              }
+            }
+          } 
+        }, 
+        "aggs": {
+          "films": {
+            "nested": {
+              "path": "films"
+            },
+            "aggs": {
+              "significantFilmTitles": {
+                "significant_terms": {
+                    "field":"films.title.raw"
+                }
+              }
+            }
+          },
+          "directors": {
+            "nested": {
+              "path": "films"
+            },
+            "aggs": {
+              "significantDirectors": {
+                "significant_terms": {
+                   "field":"films.director.raw"
+                }
+              }
+            }
+          },
+          "lists": {
+            "terms": {
+              "field": "title.raw",
+              "size": 10
+            }
+          }
+        }
+    }
+  }, 
+  "size": 0
+}
